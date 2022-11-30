@@ -3,7 +3,7 @@ NatureDSP Library for HiFi 5 DSP cores
 
 # The repo is organized as follows.
 
-xws:
+# xws:
   Last stable release version of the NDSP containing two xws files.
 
 An xws each, for the library-kernels and the test-driver.
