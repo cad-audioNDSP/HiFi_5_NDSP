@@ -14,5 +14,6 @@ Detailed release documentation can be extracted from lib.xws/doc folder.
 
 
 # Release v2.0.0 Brief: 
+Release Date : 15-Jan-2021.  
 This release is targeted for xt-clang compiler, and has added support for imaging kernels.
 All testing and performance measurements have been done on xt-clang using RI2020.5 version of the Xtensa Xplorer and tools.
