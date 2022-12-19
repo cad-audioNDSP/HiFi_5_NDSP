@@ -1,0 +1,14 @@
+; test data for verification of cmatcholbkwsubst8x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 1 1 ;  N P L
+3f7d70f8 00000000 bdd299c2 bb3b14df 3f64058c 00000000 3d906995 3df350a6 be12637d be0f6487 3f5b1a07 00000000 3d66e66f bc810938 3e5833a3 3d70c83f 3d8cc366 3d89a8a7 3f725685 00000000 3d04ec80 bd3019e3 be25668d bc77e9df bc45c006 3e2871f0 3e350597 bd100bc8 3f7258f2 00000000 3d72649f 3da3f9a6 3a39bfae be2d382b bea108a1 be1c785c 3d915e88 3cffed2d 3d01fcb6 be52140e 3f5edf28 00000000 3d2f93e5 bdf77291 3d9ff7aa bc216b9d 3c203cfe bc963468 bdeeb179 be003371 3d8c0404 3e54f27d 3db10e71 bb8c2452 3f571e4a 00000000 3cb86e61 3e10f847 3cb60e89 3db0ea6a bded10d2 be16f61f 3d8a667f be33447a 3ccb6f4e 3d81df1c be1d170a bddf9ea0 bd31c3d5 be63c389 3f622094 00000000 ; R[72]
+3f814ad3 3f8fb4a5 3f958e5f 3f873754 3f8735f9 3f9306bb 3f985353 3f90e8d9 ; D[8]
+3cc70dd4 3e836dac 3c20640b 3dd74361 3c3e78a1 bd3bf84d 3db5fad9 3e717e15 bcdc9565 3e3a5f1e 3d03259e 3e009df5 3d786ab6 3e6a4f89 3c5561da 3e2e7c29 ; Y[16]
+3c8a61b7 3e62529a 3b9ca4e3 3d802350 3a411ee3 3c1e3a7c 3c935eeb 3e7100f2 3c460759 3e21f4c3 3c3e144a 3e1b71d9 3cb32e2f 3e9284a7 3c7189dd 3e458891 ; zlo[16]
+3c8a6a1b 3e6253a6 3b9cc671 3d802568 3a422b53 3c1e4b42 3c93674f 3e7101fe 3c46181f 3e21f5cf 3c3e2510 3e1b72e5 3cb33693 3e92852d 3c719aa3 3e45899d ; zhi[16]

@@ -1,0 +1,14 @@
+; test data for verification of matcholmmsesolver10x10x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 10 1 1 ;  M N P L
+be7a7efc be8811f2 be20aca8 bd6d1f13 3e90d816 3e4d3273 3c20faf9 3e7af000 3eb10a12 be189e1a bc7ebea4 be5156a3 bc611b6a 3d27d29d 3e4ac918 3d12dbfb becb2357 3ee64334 bc617bcf be89e5e5 bd882846 3ed8c24e be6e266f bdf0bc2e be202a36 bdf8dbd3 be648704 3e8e225a 3d0b3234 be0328ab bf2a775c be2658e2 be4176f8 bed68679 bd8a355c bca06a99 3dc5d1d2 3e8a13ae 3d854dee be54eb38 be8dbac6 be6393d9 3ea6277a 3e7dde3b 3ec4a2f3 bd8fa090 3ea1fc2a bcd4b79e 3dc74755 3e2162cf bd4621e8 3cccabe4 bea7a658 beabce67 3dbec203 3ee42bf5 bec0fa5e bf28bd6e be7e4bdf bed2b920 bec14cd8 3d8f1b7b bea60825 3eb50082 be9972c2 bd485122 be80a44c 3de14b56 beca1d00 bc93e2bc 3f0020e1 3ddca3ee beec5320 3e3b0cc5 3e4afcd9 be79c451 be46f980 3ecbabc3 be8eb1d7 3ea262f4 3c5460c3 3ed0b112 bd30e625 3ebfa27c bead3ac9 bc26f107 3f2fefd6 3aca4027 be73cb0f bf0a29a4 bb9cef4e 3dce667e bee666b6 bf035e11 3deb2ce4 bee1340c 3eb48319 bebaaf9f 3c0351a3 3ecc7882 ; A[100]
+3cc3b16e 3d650efe 3c5a65c0 3e866367 3cb6471a 3d2d07c6 3e04f559 bcca9542 bdde584b 3e598893 ; B[10]
+3741fee2 ; sigma2[1]
+be65f019 be5bbfd7 bdcc6668 be17213d bbad4fc7 beac2967 bd69f83c bd149515 be0267a5 bd8a91ef ; zlo[10]
+be65e83b be5bb7f9 bdcc56ae be17195f bbac541f beac2579 bd69d8c6 bd14759f be025fc7 bd8a8235 ; zhi[10]

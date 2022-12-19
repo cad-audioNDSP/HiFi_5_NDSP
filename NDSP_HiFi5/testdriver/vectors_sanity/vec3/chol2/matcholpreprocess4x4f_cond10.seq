@@ -1,0 +1,13 @@
+; test data for verification of matcholpreprocess4x4f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 ;  M N L
+3e8c7c99 3f2d39be bf1ff608 3e63daba 3e5ca474 3f610601 3e98a0fb bddc080d 3e5ca863 bc3c915e 3e019411 3f7d70a4 3e407d12 be8f5447 3ec1e822 3f051cca ; A[16]
+375c098e ; sigma2[1]
+3e50620a 3ea3d251 bc0f82de 3eb2ad60 3ea3d251 3fa78dfd be8958d1 bdce7d7b bc0f82de be8958d1 3f2385a2 3e1ac370 3eb2ad60 bdce7d7b 3e1ac370 3fa7e075 ; zlo[16]
+3e506240 3ea3d26b bc0f7f84 3eb2ad7a 3ea3d26b 3fa78e03 be8958b7 bdce7d0f bc0f7f84 be8958b7 3f2385b0 3e1ac3a6 3eb2ad7a bdce7d0f 3e1ac3a6 3fa7e07b ; zhi[16]

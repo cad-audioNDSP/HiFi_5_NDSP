@@ -1,0 +1,15 @@
+; test data for verification of matcholdecomp4x4f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 ;  M N L
+375c098e ; sigma2[1]
+3e8c7c99 3f2d39be bf1ff608 3e63daba 3e5ca474 3f610601 3e98a0fb bddc080d 3e5ca863 bc3c915e 3e019411 3f7d70a4 3e407d12 be8f5447 3ec1e822 3f051cca ; A[16]
+3ee6f674 3f3592f7 3f65d1a6 bc9f23b9 be91247c 3f3f3b72 3f460a33 bf3938f9 bd558d06 3edd5539 ; zlo[10]
+3ee6f914 3f359447 3f65d2f6 bc9ef9c7 be9121dc 3f3f3cc2 3f460b83 bf3937a9 bd55780e 3edd57d9 ; zhi[10]
+400ddf03 3f8e942c 3fab590f 40140b28 ; wlo[4]
+400ddfbd 3f8e94e6 3fab59ef 40140bea ; whi[4]

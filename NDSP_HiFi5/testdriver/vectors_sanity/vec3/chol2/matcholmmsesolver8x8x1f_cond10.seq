@@ -1,0 +1,14 @@
+; test data for verification of matcholmmsesolver8x8x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 8 1 1 ;  M N P L
+b8d7761e 3e253694 3bfca1c9 bedca65b 3e294153 bf02e1d0 be81fe42 be0f899e bf2a2dcc 3eb6ec8e 3ed32a55 3dd0c2ed bd1ebb88 bd0a6dde be525888 3f20759a 3eacf61e bdb7fe67 3edacbae bc84e45e 3ed49240 3eac07fb bed1a046 3e432be8 bf0bee19 bf06f1c1 be82e61a 3e5f0093 3f0638a4 be67917b 3d8159ab 3dd67b4f bda33810 3ee941d7 3dcf0a9c 3c5fc5b6 3ebf33e7 bec69a0f 3e85093f bea8853b be238814 bd49a611 3d76451b 3d91af27 3e740a92 bd9f49f8 befc895f bf0b027e be00c181 bb5a6541 3db4f9fd be6e655e bf1070ac bea5c179 beddb2b8 bdc720ba 3e8ea885 3f0102c7 be85678f be17209a 3e45642e be5e8cb0 3e7ff082 3ea6f8f0 ; A[64]
+bc37dc0e 3a093bb4 3be78304 bb352e18 bad2ad68 bb9f9a8a bc4b17ba 3a57f9b5 ; B[8]
+372c71a4 ; sigma2[1]
+3b67ab32 3b2ec295 3b696fd8 3bdfd716 3b9fa868 3c6d6a9d 3bdcf95e 3b3d5311 ; zlo[8]
+3b69a284 3b30b9e7 3b6b672a 3be0d2be 3ba0a410 3c6de871 3bddf506 3b3f4a63 ; zhi[8]

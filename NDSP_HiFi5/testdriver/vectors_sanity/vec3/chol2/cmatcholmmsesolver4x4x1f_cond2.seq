@@ -1,0 +1,14 @@
+; test data for verification of cmatcholmmsesolver4x4x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 1 ;  M N P L
+3f308b82 bec9166d bed8dc59 be5cfb09 bdf3451d 3f3f9e0e bd688a78 bdcbc2dc 3d09a3fa bcf7d1ea 3eb9ae3c be2f9061 3ee18f2e 3f2ec001 3e9d18e3 3e964925 3db24ab2 be046f3c bea16cc4 bd476715 bdf19cd2 bde7043f be2e72e3 3f646718 3ee6e5f9 3e306a1a 3ed85b5a 3f0d9730 3dc8bc50 be352500 3ed9fa10 3ebbf15a ; A[32]
+be00c77f 3d8b8df0 3f05ab13 3e2c2eaf be563107 3e87899f 3f16636e 3e96eb11 ; B[8]
+375fe2a6 ; sigma2[1]
+3e658e2f bd32d2cc 3f0796db bdd33cf4 3ebf06c0 bd94ce8e 3eb36df3 bd8bc503 ; zlo[8]
+3e659047 bd32ca68 3f079761 bdd338c2 3ebf07cc bd94ca5c 3eb36eff bd8bc0d1 ; zhi[8]

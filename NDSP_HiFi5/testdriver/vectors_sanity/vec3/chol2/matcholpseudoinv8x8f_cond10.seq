@@ -1,0 +1,13 @@
+; test data for verification of matcholpseudoinv8x8f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 8 1 ;  M N L
+be10ec98 3deedd06 3d2dec54 3ec36edb 3e9951f4 3f000370 bec1984a 3f0ccccd 3e8723f9 bd844cea bdb057a5 3e43034d 3ede8efc bf34727f bee900db bdd8e065 3e641e72 3f3ad791 bee018a3 3e1f2d1d be26000d bdfa0b0b 3dd8da56 3d8fe21e be163e63 bc63180e be5a441f 3ebcc2e5 3d6198f7 3e50964b 3dfe3ff8 bf44eea5 3dfed0a2 bd1602a2 3eda412c bee54ebc 3d28fb78 3e522f70 beaddef3 be94715a bf0fe79e 3e4d46e7 bd6ae971 3e68d5b2 bcf334ba 3de7de82 bec24ce7 be9f25b3 3f311482 be9f6b46 3d55a484 3eee17b3 3b99c79e 3e9d66d6 bdbc453d bdd9668e 3dc589e0 bdda44fa 3c7809f8 3e3830aa be8037d4 3d9b1e6c 3ec9ceeb 3cbe79c3 ; A[64]
+37390971 ; sigma2[1]
+be36d6ce 3d5ca073 3ef2a9f7 bdbaf740 3ea08de4 bf11fdb8 3f3d8a3c bea0959d 3f8b1d9b 3f56e959 3fa03aaf 3f05bc08 3fd195e8 be9825cc bfa06672 4015f8e6 3fce2ac6 3fee5128 3e1d0361 3e8808e1 4036aab7 bd893eff bfdbd9ba 40b20859 3f59a71e 3f87566d 3e0d2e0a 3e4e217a 3ec0eb45 3f1a37ed be4bdcff 4032d323 3fc9ef7b 3f692704 bdecb491 3fe49cee 3f309ef8 c0059328 bfbbd4a9 3e8d5c45 3e87dd37 bf904c6d bd12b741 3ed48e91 be117afd beb0c866 3f09a854 bfbfa71b 3f524301 3eee8171 3dbd2da5 3f953ee8 3f15987d bfbc1846 bfb38ca3 400edaf1 3e9537fb be454f32 bdbcebfc bf57d35a bf17edec bd685996 3d94e156 be4e2036 ; zlo[64]
+be36acdc 3d5d4839 3ef2beef bdbaa35e 3ea0a2dc bf11f33c 3f3d94b8 bea080a5 3f8b22d9 3f56f3d5 3fa03fed 3f05c684 3fd19b26 be9810d4 bfa06134 4015fb86 3fce3004 3fee5666 3e1d2d53 3e881dd9 4036ad57 bd88eb1d bfdbd47c 40b209a9 3f59b19a 3f875bab 3e0d57fc 3e4e4b6c 3ec1003d 3f1a4269 be4bb30d 4032d5c3 3fc9f4b9 3f693180 bdec60af 3fe4a22c 3f30a974 c0059088 bfbbcf6b 3e8d713d 3e87f22f bf90472f bd120f7b 3ed4a389 be11510b beb0b36e 3f09b2d0 bfbfa1dd 3f524d7d 3eee9669 3dbd8187 3f954426 3f15a2f9 bfbc1308 bfb38765 400edd91 3e954cf3 be452540 bdbc981a bf57c8de bf17e370 bd67b1d0 3d953538 be4df644 ; zhi[64]

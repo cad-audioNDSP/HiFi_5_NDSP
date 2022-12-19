@@ -1,0 +1,14 @@
+; test data for verification of matcholbkwsubst10x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 1 1 ;  N P L
+3f7af253 bd999653 3f7d70f8 3ce571b6 3d45df3b 3f73e1b5 be47eafa be1431cc be493854 3f1a4f27 3dbcfb73 3c5bd4d7 3e9ab609 3f28f190 3f251726 3e1c9766 3e08d2fb 3db99587 bd83bfd9 be35b6bc 3f34f355 3dac2a88 be18ef65 be023396 3ea35a03 be376029 3e6ea046 3f3a6a27 bcceb0ef 3d758118 bdbd269e 3e2799ef 3b9a880e bd40bc6d be9f26e5 3f6a54dd be571085 be98dabb 3dfe4dc6 bef44f89 3ec0008c 3ec93903 3e36600a 3ea79fd3 3ead17bc be337548 be388228 3d33972e bd4c093b 3db65a6e bd248526 bebafdb4 beed0de8 3d0f1d35 3ec87059 ; R[55]
+3f8293dd 3f814ad3 3f865c39 3fd45a56 3fc67c33 3fb51693 3fafc7b9 3f8bd60a 403d4f17 40237b34 ; D[10]
+3e3448b6 3e370137 3e7f84ce 3e8ddf9b 3da8ce2b 3e132b83 be09fb02 3ecdefbb 3cdac9ea 3c972715 ; Y[10]
+3e6f5fa1 3e3d5db1 3e953b23 3e8e9df8 3e04bf48 3e442f17 3be1d251 3edf9b9d 3d97ce2e 3d410804 ; zlo[10]
+3e6f6241 3e3d6051 3e953c73 3e8e9f48 3e04c1e8 3e4431b7 3be22633 3edf9ced 3d97d36c 3d411280 ; zhi[10]

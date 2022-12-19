@@ -1,0 +1,13 @@
+; test data for verification of matcholpreprocess6x6f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 ;  M N L
+bf42f1e5 3e8bd7a3 3e840639 beaac63e 3e021b53 bf081b53 3e7145c2 3d0ec38a beee213a befd5197 be531348 be405308 3dde0029 3ed28457 be96140d 3f32d898 3e912387 bec37af7 3e635e96 3ebe8360 3bf4d708 be9b045d 3f3b1f3e bcdd6295 bcb893af 3f1e1331 3f0e593c 3e3a2eef beab1907 3ec07a62 3eaf948c bcc3d2e6 3efb6832 be9eec55 be20853c bea354d7 ; A[36]
+3732b52e ; sigma2[1]
+3f5087f6 bdc1f08d be3886c0 3d10eb88 3ac1aa61 3e480c1a bdc1f08d 3f43e390 3e8942e1 3e3e6544 3e5a941a bda1e056 be3886c0 3e8942e1 3f6b49bf bde9fc2c be58df50 3dea37cb 3d10eb88 3e3e6544 bde9fc2c 3f885831 3cc68aa9 3e376109 3ac1aa61 3e5a941a be58df50 3cc68aa9 3f4f3d37 be6e055c 3e480c1a bda1e056 3dea37cb 3e376109 be6e055c 3f3521bf ; zlo[36]
+3f508804 bdc1f021 be38868a 3d10ec5e 3ac1c539 3e480c50 bdc1f021 3f43e39e 3e8942fb 3e3e657a 3e5a9450 bda1dfea be38868a 3e8942fb 3f6b49cd bde9fbc0 be58df1a 3dea3837 3d10ec5e 3e3e657a bde9fbc0 3f885837 3cc68c57 3e37613f 3ac1c539 3e5a9450 be58df1a 3cc68c57 3f4f3d45 be6e0526 3e480c50 bda1dfea 3dea3837 3e37613f be6e0526 3f3521cd ; zhi[36]

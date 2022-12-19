@@ -1,0 +1,13 @@
+; test data for verification of cmatcholpseudoinv4x4f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 ;  M N L
+3f0eda54 beacc39f 3f19aadd 3de90702 3e8e84ff 3dcd1e0b 3d97283d 3d4f5658 bd5fd527 bc9dd3b8 3e834093 3e91eeb2 bf1f3a05 3d7c4e51 be9c3087 3e652665 3e7c9bb1 bca4e245 bedbc509 bda77645 3dfde8cc beb5eb1d 3e9095d2 3f41c1bc 3e789a61 ba1c04d8 beb7064c beda8a99 be192279 3e90b127 3bb37180 bee72c0b ; A[32]
+372b50fc ; sigma2[1]
+3f6b6ee7 3eecae6b 3e33fdb1 3ef04900 3ef6e173 3e26064b 3f5c692e 3e59b955 3ef8e361 bd95d6ad 3ddbcb75 bcd73dbe beee4601 3e4c4708 bf08d77c 3f1a9167 3e2f33e3 3da61fad bf91dedf bdcd771e be2d5916 3e7687fe bf1a08f1 bea4c646 bd95fece 3d89b21f bf038103 bed6b6b0 3e323fe6 bf395a57 be002e47 3eb77585 ; zlo[32]
+3f6b6f2b 3eecaef1 3e33febd 3ef04986 3ef6e1f9 3e260757 3f5c6972 3e59ba61 3ef8e3e7 bd95d495 3ddbcd8d bcd7355a beee457b 3e4c4814 bf08d738 3f1a91ab 3e2f34ef 3da621c5 bf91debd bdcd7506 be2d580a 3e76890a bf1a08ad bea4c5c0 bd95fcb6 3d89b437 bf0380bf bed6b62a 3e3240f2 bf395a13 be002d3b 3eb7760b ; zhi[32]

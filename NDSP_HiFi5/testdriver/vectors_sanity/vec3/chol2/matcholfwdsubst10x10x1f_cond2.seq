@@ -1,0 +1,15 @@
+; test data for verification of matcholfwdsubst10x10x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 10 1 1 ;  M N P L
+3f7d70fe 3e17eb17 3f53ef21 3c029f98 be2c4eb9 3f6e76d8 3dec0380 3d357810 3e55cb57 3f6f99a1 3d6e9c11 be95fb2b bd0433bf bd8ac4c9 3f4bec36 bd754950 bdf13c8c 3d9ecac6 3c88f792 bc90f6d8 3f4c54f0 bd859f68 3df95c9d 3e23f639 3d332441 bc2afa35 be60e131 3f7c67c4 bd25424e bd462370 bcd27db1 3e701c2b 3caa0183 be3dd4d6 be25b140 3f78777e bd91727a be1b45ae 3e31dbf7 be40d342 3dee930d 3b147cbe 3d9cab24 3e092f10 3f3bb80f 3e3063b3 be02f889 bcfe4e51 bd37e672 3dd9b808 beba12c0 bd2a9288 bdb15f71 3d93df6c 3f56eaf3 ; R[55]
+3f814acf 3f9a9d36 3f8969a3 3f88c2de 3fa0b037 3fa05ddc 3f81d2ac 3f83e17d 3fae8f0e 3f9877b6 ; D[10]
+be49ce98 be80a6f3 bea848a3 3d813112 3e886130 3e8806ca 3d6da690 3e5191c2 3f00f530 be0bf59b 3d169936 be8ee848 3c9893ab 3ce7a38e 3e6f3290 be58049f becbfa06 3ebd6935 bd1cdd54 bede8495 be06bc96 3f225a20 be2388d2 bde7e5c7 bd4e3b28 be0ab66b be8a1476 3e83e3af 3e10dd32 bdea09de bf1e42b9 be23895d be03b4d0 bf006265 bda197aa 3d5c0945 3e22edc1 3eb48479 bdc31e84 be0abdd2 beb7533a bda0d41a 3ea9009b 3e8d855c 3f0d5c28 bdaa563a 3e8c053d bd54b805 bc2c577f 3e1ddc8f bd37021e 3d7e269a be9810ba be929b9c 3e464d87 3ee3d3cb bea64e84 bf1adc09 be938839 bec323b1 bee10127 bbb42331 beb69d8c 3ee33323 bea5a1f4 bdc82074 be8beb7c 3cb0f536 beb1614d 3d329118 3eed18d9 3dd351b3 bee8cb1b 3e05adfe 3e89486c bdb5d62d bdbdcfd3 3edaa9be beb8dddb 3ea5501e 3d4e439d 3eaec04a bda948d8 3eaac422 be7f0422 bcd213d6 3f2bd647 3c802df6 be604508 bf10c5aa bc2c606e 3d1b1682 bee9565f beda7de7 3df326c0 bf0ca30b 3e9bfb87 bec090a8 3d5cf3c4 3e8eae66 ; A[100]
+bd0e2910 3e22cce2 bd046241 3e7777bf 3cd2cf0b 3cab573f 3e2462b3 bd6c3730 bdb4e6c3 3e83c2d0 ; B[10]
+be7f8124 bdd3fc35 be362c57 be026a22 bca78785 be664449 bd6b084d bd3e292a bdc92d10 bd68dbe0 ; zlo[10]
+be7f8018 bdd3fa1d be362b4b be026916 bca77f21 be66433d bd6b041b bd3e24f8 bdc92af8 bd68d7ae ; zhi[10]

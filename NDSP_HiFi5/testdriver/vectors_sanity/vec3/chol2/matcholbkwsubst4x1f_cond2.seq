@@ -1,0 +1,14 @@
+; test data for verification of matcholbkwsubst4x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 1 1 ;  N P L
+3f23beb1 3e9b522f 3f7d7114 3a8edcc5 be07b082 3f5c4a01 3ea7f815 be229129 3d6daa9e 3f77f252 ; R[10]
+3fc81dbd 3f814ac4 3f94c000 3f842852 ; D[4]
+3edd78b1 3e5b6b19 3ed5e739 3ef1b17e ; Y[4]
+3e839d73 3eb5d9fe 3ee7c049 3ef98ae9 ; zlo[4]
+3e839df9 3eb5da84 3ee7c0cf 3ef98b6f ; zhi[4]

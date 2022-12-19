@@ -1,0 +1,15 @@
+; test data for verification of matcholdecomp6x6f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 ;  M N L
+37602245 ; sigma2[1]
+bf50a016 3ea19c70 3eb60dbd bed03d78 3e4ac03d bf191326 3e7567d1 be6f19ee beb0dc24 bef518cf bcc887df be4a754d 3d4c5827 3edfbfb5 beb05776 3f44ef3a 3ee54cc7 be8b469e 3e4de8fc 3ec961df bcd6910c be889b4d 3f328e06 be3ccb72 bd4de0c2 3f0a37c4 3f41dc66 3e938627 be9db331 3ec04e56 3e35b2fc 3d5ef5bf 3ecc491e bee24ed1 be292817 bdf855a3 ; A[36]
+3f64c211 be83a904 3f5a742d becf92c3 3ed709a4 3f5eba5e 3df8bf22 3ee26ac2 bec34f9e 3f7d70c2 bca94fa3 3ed69704 bf29d83c bebb3cc4 3ea11f28 3ec7e2e8 bd338123 3ed7ec28 3ef45054 3d894704 3e9ea40c ; zlo[21]
+3f64c361 be83a664 3f5a757d becf9023 3ed70c44 3f5ebbae 3df8c99e 3ee26d62 bec34cfe 3f7d7212 bca925b1 3ed699a4 bf29d6ec bebb3a24 3ea121c8 3ec7e588 bd336c2b 3ed7eec8 3ef452f4 3d895180 3e9ea6ac ; zhi[21]
+3f8f3d70 3f95ff15 3f931e35 3f814a43 404b5d9f 404e8bc2 ; wlo[6]
+3f8f3e2c 3f95ffd9 3f931ef5 3f814aed 404b5ea9 404e8cd0 ; whi[6]
