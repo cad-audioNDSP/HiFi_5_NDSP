@@ -1,0 +1,22 @@
+; test data for verification of stereo_ifft128_cplx16x16_ie function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+128 4 ; first twiddle table fft size # amount of tables
+fft_cplx32x16_ie_twd_128.bin 
+fft_cplx32x16_ie_twd_256.bin 
+fft_cplx32x16_ie_twd_512.bin 
+fft_cplx32x16_ie_twd_1024.bin 
+
+; inverse transform, dynamic scaling
+
+1 7; test case # and type (inverse transform, dynamic scaling)
+128 ; N (fft size)
+2 ; scale method (dynamic scaling)
+fft_ref/stereo_fft_cplx_ie_input.bin ; input data filename (16-bit PCM)
+fft_ref/stereo_ifft_cplx_ie_ref_128.bin ; reference data file name (double precision FP)
+5.150000e+01 ; minimum required SINAD, dB
+
