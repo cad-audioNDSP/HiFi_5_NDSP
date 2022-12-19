@@ -1,0 +1,3 @@
+This is only a placeholder.
+Due to the large size, the test vectors are not checked in to GitHub. 
+Please contact your respective AEs to get the test suite and populate it in this folder.  
