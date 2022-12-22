@@ -1,0 +1,15 @@
+; test data for verification of cmatcholdecomp6x6f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 ;  M N L
+373c51e7 ; sigma2[1]
+3f163932 37f81ce3 3f0bbe0d 3db151b7 be325c7e 3ea0258f 3c341acc be53af04 bda0ca58 3e2061ea 3edb8537 bddf10e9 3ecd510c bec90f1d bd77da11 3e7736e7 3ef50aa5 3d1368ee be9e2b4e 3e162a96 3dbf3031 bec1bf89 be95f9c8 3d950ab8 3e5fa393 bdd131c6 bc8f6f63 beab45be bd831c21 bed74211 3ed63099 bea99308 bf036ea9 be6398a5 bc8d8c11 be10bf4f be8a83fe be380eab bd463b37 3e83f547 bde2d95b 3e3f2619 be6ed173 bead3d5e bc96532f bf2a25b0 3f0e365e 3ccb3b2c bce7580b 3e036a49 3d5e8dbc bef24d8e be0d5cff be2f8987 bf143fb9 3d8b0d0b 3dca7e99 be2e9692 3e9f0474 3e93f8c3 3d991770 bdf9df29 3e8740c2 baee8eaa 3e535e5d 3ef42a83 3e3e3eee be0adc15 bec397dd bb86a5ad be077276 3eedd4c2 ; A[72]
+3f6d81c3 b60637bd 3e2c4125 3c1fe18b 3f675a16 b60637bd 3d311243 3ea5dc05 3e7d98db 3da1566a 3f5ad1f3 b60637bd 3e0f0605 bdae179c 3d14b35f be038052 bda649db 3e95f04f 3f6eb131 b60637bd 3e06ecf6 bb2c8340 be8dd796 ba70200d 3de77417 bda4b9ed be1f01b7 3d8f5ff8 3f7d70f6 b60637bd bda97ba9 be030542 3e25fb6c 3e10f2f4 be304b37 bd5aeb8d be5f14dd 3d58bb30 bced9ef9 3e7fdc6b 3f66f760 b60637bd ; zlo[42]
+3f6d8207 360637bd 3e2c4231 3c1ff251 3f675a5a 360637bd 3d311675 3ea5dc8b 3e7d99e7 3da15882 3f5ad237 360637bd 3e0f0711 bdae1584 3d14b791 be037f46 bda647c3 3e95f0d5 3f6eb175 360637bd 3e06ee02 bb2c4024 be8dd710 ba6f139d 3de7762f bda4b7d5 be1f00ab 3d8f6210 3f7d713a 360637bd bda97991 be030436 3e25fc78 3e10f400 be304a2b bd5ae75b be5f13d1 3d58bf62 bced9695 3e7fdd77 3f66f7a4 360637bd ; zhi[42]
+3f89f72d 3f8da2d3 3f95bf5a 3f8947cb 3f814a98 3f8ddf5b ; wlo[6]
+3f89f787 3f8da32f 3f95bfbc 3f894825 3f814aec 3f8ddfb7 ; whi[6]

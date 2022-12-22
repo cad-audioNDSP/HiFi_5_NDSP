@@ -1,0 +1,15 @@
+; test data for verification of matcholfwdsubst8x8x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 8 1 1 ;  M N P L
+3f78fabe 3da9255a 3f73557a bd72dfdc 3dfd5d49 3f4de0b0 be25703b bde7d3a6 3be0f627 3f31eca2 bcd5822e bcb66398 baf8ce05 3e067094 3f7d70fc 3e46d729 be4be106 3e44b9d7 3e926b6e bdbc581a 3f432d32 3dad9035 3dc85b9d be9dcf71 3e3ecf3f 3d03f169 3cb870fa 3f596080 bdf12595 3de52436 3d9e3bd0 3ce6d340 bcea84c6 3e4dc469 3de9643e 3f6f6649 ; R[36]
+3f839bf8 3f86a9a7 3f9f2997 3fb82b0d 3f814ad1 3fa7e397 3f96be25 3f88e033 ; D[8]
+bd51ab0a 3dc966b8 3c2c9b69 bf257356 3e50e889 bed60fa3 be52c3f8 bde60de0 bf287dae 3ec0ad72 3ec01616 3d9c977d bcfa2a8c 3c9c5826 be4484d8 3f1022eb 3ed0a10f be00ca56 3ef454b3 3cc9ae6a 3ed9c6d6 3e6cd6ac bececa82 3e6554e3 beeaa768 bf0befff be81f237 3e7468a7 3ef9df98 be9a5473 3d2c2c32 3e1e6dd2 bd221d95 3ed32721 3e8138c7 3e007c8c 3eaa17be bee17498 3ea215c1 beb29783 be37db13 3d9c1d9d bd9daa56 3e0fce72 3e75e956 3c9eb722 bf118b4a bf0b5ea6 bc8dc5b9 bd681e5d 3ddcd767 bd834119 bf133ba6 beee46e6 bedfca9f bd07876d 3ea1d3fb 3f03db1c bec72858 bd1481d2 3e47c3ba be70f95b 3dd1522e 3ebedd77 ; A[64]
+bc35b09c 3a8390ad 3bcfb739 bb6d4af0 ba6e9cb4 bb737e7c bc530245 39392d66 ; B[8]
+3bacd134 3955b44c 3b7bac1c 3c325ec3 3b6e5dd8 3c4139fe 3bc6d575 3b31d18f ; zlo[8]
+3bacf2c2 3959e60a 3b7bef38 3c326f89 3b6ea0f4 3c414ac4 3bc6f703 3b3214ab ; zhi[8]

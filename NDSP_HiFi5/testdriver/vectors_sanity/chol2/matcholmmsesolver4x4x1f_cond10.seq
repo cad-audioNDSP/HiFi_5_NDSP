@@ -1,0 +1,14 @@
+; test data for verification of matcholmmsesolver4x4x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 1 ;  M N P L
+be9d1b4c bee673bb 3e29363a 3f4d00f6 3e609c48 3e2453d5 bf7d70a4 3f05d0fa bd353479 bda1a388 3ede9b68 3e5dfa4b be19e485 bf06eb0c 3e1be2bc 3eb25a71 ; A[16]
+3dedd09e 3ce27887 bd105218 3defc63b ; B[4]
+374c9e05 ; sigma2[1]
+be52316d be627904 be012747 bd02d764 ; zlo[4]
+be52298f be627126 be011f69 bd02b7ee ; zhi[4]

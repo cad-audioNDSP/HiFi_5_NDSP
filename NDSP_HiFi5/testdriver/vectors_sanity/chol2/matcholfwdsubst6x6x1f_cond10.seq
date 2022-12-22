@@ -1,0 +1,15 @@
+; test data for verification of matcholfwdsubst6x6x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 1 ;  M N P L
+3f7d70fb be5f9114 3f079ad0 3dc830c7 3f1b1ae2 3f3eb8f5 bd6b627c bee653db 3f04b3ca 3f3eac37 be014d40 be1bea28 3e5f3363 beb54928 3f042d60 3d11a113 bea6a054 3ea79c0d befb99d9 3eb90830 3e570df8 ; R[21]
+3f814ad1 3ff1a4bb 3fabcf52 3fabdacd 3ff7e8d8 40985ee2 ; D[6]
+3dc40a21 bedef950 bea450bd 3d3dd906 3ea51e30 3f1f1144 bdc55e4b 3e0ce1f8 3e8d7288 bed4428f 3e2b6d6a 3d9bb584 befd36c8 be2edff4 bf17052b 3ecf7b42 be169adf be94e899 3eb8604c bddf41ff bf16efe9 bf145c82 3d97d172 bbfc9bc5 3e218313 be06e9e4 3e6e4d5b 3f036b19 3ecb355d 3e9195e6 3f400038 be7d6ee1 3d4f6ad8 3e9ade4c bece035b be8a7c60 ; A[36]
+3d5d67b8 3d09dd05 3d8e9dd0 3e567db6 be36981b bd28018f ; B[6]
+bc8429b3 bd35d58b be81050c be07e495 bd546658 bc7891ee ; zlo[6]
+bc8414bb bd35cb0f be8103bc be07e1f5 bd545bdc bc7867fc ; zhi[6]

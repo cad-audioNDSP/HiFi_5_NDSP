@@ -1,0 +1,14 @@
+; test data for verification of cmatcholbkwsubst10x1f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 1 1 ;  N P L
+3f7d70fc 00000000 bdf93087 3d075af9 3f6dc4e9 00000000 3d80d542 be265952 bd4e966a 3d1af122 3f7ae4a2 00000000 3b0dd72c 3e134c00 3d2e8d7c 3d4453b1 3e2fd53e bc982705 3f204a76 00000000 3df97e68 bdb333c1 3e46d707 3d196863 bda1128f bb3a18f9 3eb3739b 3e8f309b 3f5ff53a 00000000 be52da7a bd70127d be163a0c 3dcec21e bd24d0b3 3de67825 3e24c9ea be642acd bd442efd 3dfaca3a 3f3d5923 00000000 bce4c47b be2e2564 3c829227 bd68598e be2c5ad6 3dceed98 3c6dbbe1 3e2a5e39 bd066e90 3d9c7de5 3e314614 bc93437e 3f5ddcd2 00000000 3e322502 3cea71e1 3e1734cb bc5dc68f bdc4ec82 be1cd42f bad3764d be35bcc7 bd7dfd7e bd9fb93a 3e1f05ae be83881c 3e59355a bd857d75 3f183d2b 00000000 3e18c566 bd95415b 3e83398f bd9923e7 bd91f912 bdc52c50 3dcbb500 3e8b866a bec506c5 bb456d87 3e97fb3f be14ca95 be94d2df be3c05fd beb38e18 bce6ccd1 3f15756f 00000000 3d179911 3d0c9923 3e52db42 3d4a8036 3e5043ea 3e389e56 3c926139 be6c00cd bd6c37c9 3dfa0d19 3d400c78 be27c8a4 3e940464 3ea611bf be5f0ced be43ba7e 3e835079 bbdec871 3e611646 00000000 ; R[110]
+3f814ad1 3f89d078 3f829afd 3fcc6da9 3f92502e 3fad0e8e 3f93b1ed 3fd73d98 3fdb3e96 4091944b ; D[10]
+be55ce36 3dafe4b1 bec2e590 3a207594 be544ab6 bc545cec becd32d6 3e2f8a0f bdd0d021 bd7e636c bee50f07 3e87ab02 bed052da 3c931dd6 be115fe1 3db3de52 be10d6f9 3cd9ecbd bd897ad6 3c3e0d69 ; Y[20]
+be4b8ff1 3d0cbf3d be73d3fc 3d28aaf3 be5398bd 3d126bbf beca6b80 3d8c19bd be6fa002 3d25caee beda37d5 3d96f7ba be937f56 3d4c2a8f bedd7948 3d993267 bddeb02b 3c9a2f33 be9c5d15 3d582222 ; zlo[20]
+be4b8d51 3d0cc9b9 be73d15c 3d28b56f be53961d 3d12763b beca6a30 3d8c1efb be6f9d62 3d25d56a beda3685 3d96fcf8 be937e06 3d4c350b bedd77f8 3d9937a5 bddeaaed 3c9a442b be9c5bc5 3d582c9e ; zhi[20]

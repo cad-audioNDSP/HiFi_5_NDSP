@@ -1,0 +1,14 @@
+; test data for verification of cmatcholbkwsubst4x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 1 1 ;  N P L
+3f3da64c 00000000 3dee8db5 3e29ad20 3f7d7101 00000000 3e571350 3e22df32 bdda5c13 3e73adb5 3f43bcb8 00000000 3dffb1bb 3e22dd6f 3b1f78ef 3cfbb4ae be806882 3e372724 3f6ee7d7 00000000 ; R[20]
+3facc824 3f814ace 3fa7687c 3f8928a4 ; D[4]
+be671721 bf0e5897 be348d6b bea252d5 3d5e4be0 bdf2a4cc bedcdbec beeae965 ; Y[8]
+beaf7a8a bebaa616 be86d123 be8f6562 be4857a4 be55164e beeca9c5 befbb8a7 ; zlo[8]
+beaf7a04 bebaa590 be86d09d be8f64dc be485698 be551542 beeca93f befbb821 ; zhi[8]

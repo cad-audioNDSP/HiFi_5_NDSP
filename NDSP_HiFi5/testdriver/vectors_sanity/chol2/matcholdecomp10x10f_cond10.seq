@@ -1,0 +1,15 @@
+; test data for verification of matcholdecomp10x10f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 10 1 ;  M N L
+37256087 ; sigma2[1]
+3e9450f4 3f2cdd88 be8f292c 3c91aea4 3c707a66 3ecc6f62 3e204bcf bdb3a523 beac4cc6 bd8ba40d be16c021 be578c47 be15fe9e 3d9a8a04 bf0c972b 3e8db6cb 3eb446c3 3e9d487b 3c5972b3 be60ab92 bec5bc5c bdd69558 beb52732 bcec1d20 bee69fc3 3d502321 be35dc37 bea3d58e 3e809036 3ee8793e 3d3b47f4 3c5b7d7b 3e2bebc9 bed6a1a5 be78e90f 3e879eb4 3e990a3d bee7d184 3f0d1042 be41aca6 3d643e01 3ea0a760 3e468a4c be247d04 bead5d05 be94eb45 3cd3f977 bea6d22d befbdcc9 3b85f2e7 3ee0f430 3bdf97a5 3ed04b26 bed51ec4 be0955d7 3e52ed59 bed97feb 3e93adba 3e77788b 3ded7d6c 3eb3e7f7 bd863f17 3cd03815 3d2e3ca0 bbacc972 3e5f3eb3 3e714339 3d303592 3d8736ff bebc9ef1 3f003fc1 beba9f89 bf1b10d3 bb49c542 be1833c7 be87642d 3e3dc52b 3d9143fb bc85e51e bdb21fae be907b4a 3e378a94 3d8a88dc 3e32d63d 3ea08d5c bdf3ea03 3e878c82 3ebb8cc5 3eb40b60 be318c56 3e6da11b bee8aa81 3e930232 3e5e15f2 3ebbc554 3e066f71 3ec89966 bef8f0ee be00e255 3ea020b5 ; A[100]
+3f7af1ab bd999b91 3f7d7050 3ce55cbd 3d45d4bf 3f73e10d be47ed99 be14346b be493af3 3f1a4e7f 3dbcf635 3c5baae6 3e9ab4b9 3f28f0e8 3f25167e 3e1c94c7 3e08d05c 3db99049 bd83c517 be35b95b 3f34f2ad 3dac254a be18f204 be023635 3ea358b3 be3762c8 3e6e9da7 3f3a697f bccec5e8 3d75769c bdbd2bdc 3e279750 3b9a342b bd40c6e9 be9f2835 3f6a5435 be571324 be98dc0b 3dfe4888 bef450d9 3ebfff3c 3ec937b3 3e365d6b 3ea79e83 3ead166c be3377e7 be3884c7 3d338cb2 bd4c13b7 3db65530 bd248fa2 bebaff04 beed0f38 3d0f12b9 3ec86f09 ; zlo[55]
+3f7af2fb bd999115 3f7d71a0 3ce586af 3d45e9b7 3f73e25d be47e85b be142f2d be4935b5 3f1a4fcf 3dbd00b1 3c5bfec8 3e9ab759 3f28f238 3f2517ce 3e1c9a05 3e08d59a 3db99ac5 bd83ba9b be35b41d 3f34f3fd 3dac2fc6 be18ecc6 be0230f7 3ea35b53 be375d8a 3e6ea2e5 3f3a6acf bcce9bf6 3d758b94 bdbd2160 3e279c8e 3b9adbf1 bd40b1f1 be9f2595 3f6a5585 be570de6 be98d96b 3dfe5304 bef44e39 3ec001dc 3ec93a53 3e3662a9 3ea7a123 3ead190c be3372a9 be387f89 3d33a1aa bd4bfebf 3db65fac bd247aaa bebafc64 beed0c98 3d0f27b1 3ec871a9 ; zhi[55]
+3f829387 3f814a7e 3f865be1 3fd459cb 3fc67bb1 3fb5161c 3fafc746 3f8bd5ae 403d4e9b 40237ac9 ; wlo[10]
+3f829433 3f814b28 3f865c91 3fd45ae1 3fc67cb5 3fb5170a 3fafc82c 3f8bd666 403d4f93 40237b9f ; whi[10]

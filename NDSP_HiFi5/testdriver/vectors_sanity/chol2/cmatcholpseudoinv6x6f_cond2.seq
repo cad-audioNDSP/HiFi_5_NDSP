@@ -1,0 +1,13 @@
+; test data for verification of cmatcholpseudoinv6x6f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 ;  M N L
+3f163932 37f81ce3 3f0bbe0d 3db151b7 be325c7e 3ea0258f 3c341acc be53af04 bda0ca58 3e2061ea 3edb8537 bddf10e9 3ecd510c bec90f1d bd77da11 3e7736e7 3ef50aa5 3d1368ee be9e2b4e 3e162a96 3dbf3031 bec1bf89 be95f9c8 3d950ab8 3e5fa393 bdd131c6 bc8f6f63 beab45be bd831c21 bed74211 3ed63099 bea99308 bf036ea9 be6398a5 bc8d8c11 be10bf4f be8a83fe be380eab bd463b37 3e83f547 bde2d95b 3e3f2619 be6ed173 bead3d5e bc96532f bf2a25b0 3f0e365e 3ccb3b2c bce7580b 3e036a49 3d5e8dbc bef24d8e be0d5cff be2f8987 bf143fb9 3d8b0d0b 3dca7e99 be2e9692 3e9f0474 3e93f8c3 3d991770 bdf9df29 3e8740c2 baee8eaa 3e535e5d 3ef42a83 3e3e3eee be0adc15 bec397dd bb86a5ad be077276 3eedd4c2 ; A[72]
+373c51e7 ; sigma2[1]
+3f21039a 3e8f1ac9 3f32e7db 3e8af3eb 3ecc2e6a bd95c981 becc56f8 3e4e8fee 3e4474cf be90dc41 bdb77c7c bd04fd48 3f19d9cd be830c95 be858d3d beeb97e0 be60e6eb 3ec84e71 be01c095 be7527fd 3e0f2726 3f3332a8 bd954117 3ecc011b beb5c1fc 3d11aaf1 3eddd6ef 3e9ed8cb 3c9be025 3edaee6f bc97addd be7f62ee bea9ecfb 3de3c763 3e5d4cec bf5f8a0c bd29d9ad bd84ed93 bf0354f9 bd539807 3e8e2d09 3eed6308 bcfddddd 3ed73774 bf260030 be4e595c 3e6b76e7 bcc706e0 3d146753 be8ad84f be12e1db 3e384975 beea22f1 3ebb1df4 3c9451da 3f089ca6 bd6dbc07 3e92783b bf009dd2 3da35910 3ee35f2e 3e01fcb2 be4fea0f be0a859b bdac5e5f 3e102290 3edc4b71 3e109764 bcb5d17c bef8092f be0b84f4 bf2f7e5e ; zlo[72]
+3f2103de 3e8f1b4f 3f32e81f 3e8af471 3ecc2ef0 bd95c769 becc5672 3e4e90fa 3e4475db be90dbbb bdb77a64 bd04f916 3f19da11 be830c0f be858cb7 beeb975a be60e5df 3ec84ef7 be01bf89 be7526f1 3e0f2832 3f3332ec bd953eff 3ecc01a1 beb5c176 3d11af23 3eddd775 3e9ed951 3c9be889 3edaeef5 bc97a579 be7f61e2 bea9ec75 3de3c97b 3e5d4df8 bf5f89c8 bd29d57b bd84eb7b bf0354b5 bd5393d5 3e8e2d8f 3eed638e bcfdd579 3ed737fa bf25ffec be4e5850 3e6b77f3 bcc6fe7c 3d146b85 be8ad7c9 be12e0cf 3e384a81 beea226b 3ebb1e7a 3c945a3e 3f089cea bd6db7d5 3e9278c1 bf009d8e 3da35b28 3ee35fb4 3e01fdbe be4fe903 be0a848f bdac5c47 3e10239c 3edc4bf7 3e109870 bcb5c918 bef808a9 be0b83e8 bf2f7e1a ; zhi[72]

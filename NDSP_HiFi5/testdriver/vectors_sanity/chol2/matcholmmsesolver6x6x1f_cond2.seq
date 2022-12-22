@@ -1,0 +1,14 @@
+; test data for verification of matcholmmsesolver6x6x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 1 ;  M N P L
+3d3fb681 bf067e23 be8b9a6c 3c7b7bbf 3e4d2601 3f2de581 be1a2e11 be047d57 3ec1bc99 bef5eb37 3e820c71 bdb027f9 bf01842d be8d0af3 bf0b685d 3ebdb9e8 bd901ed7 bec0f4e8 3ecc90e8 bd192854 bf1e2b33 bf0a0af6 3e43d8c2 bdb1a276 3e4ead85 bd9f17f6 3e48f4c2 3f08288a 3f12ef49 3e1a883c 3f34d261 beb9ee0c 3dc981ff 3e8271b2 becc2da3 be991239 ; A[36]
+3da63dcd 3ddcbede 3dcaf090 3e3c86e0 be456cd3 bb9074ce ; B[6]
+3728ea29 ; sigma2[1]
+bd91dca2 be608649 bdf2269a be7f8f80 bd4c255d bd941182 ; zlo[6]
+bd91d870 be608431 bdf22268 be7f8d68 bd4c1cf9 bd940d50 ; zhi[6]

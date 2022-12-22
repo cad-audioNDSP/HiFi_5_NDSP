@@ -1,0 +1,13 @@
+; test data for verification of matcholpreprocess8x8f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 8 1 ;  M N L
+be10ec98 3deedd06 3d2dec54 3ec36edb 3e9951f4 3f000370 bec1984a 3f0ccccd 3e8723f9 bd844cea bdb057a5 3e43034d 3ede8efc bf34727f bee900db bdd8e065 3e641e72 3f3ad791 bee018a3 3e1f2d1d be26000d bdfa0b0b 3dd8da56 3d8fe21e be163e63 bc63180e be5a441f 3ebcc2e5 3d6198f7 3e50964b 3dfe3ff8 bf44eea5 3dfed0a2 bd1602a2 3eda412c bee54ebc 3d28fb78 3e522f70 beaddef3 be94715a bf0fe79e 3e4d46e7 bd6ae971 3e68d5b2 bcf334ba 3de7de82 bec24ce7 be9f25b3 3f311482 be9f6b46 3d55a484 3eee17b3 3b99c79e 3e9d66d6 bdbc453d bdd9668e 3dc589e0 bdda44fa 3c7809f8 3e3830aa be8037d4 3d9b1e6c 3ec9ceeb 3cbe79c3 ; A[64]
+37390971 ; sigma2[1]
+3f7ae883 be58eb56 3ce42253 3e076e46 3cee24c4 be0738cb 3dac950a 3db8b9c3 be58eb56 3f3353c7 beb3aea4 3d1e051b bdc178d4 bd9d1010 bc846e7a 3de4fb43 3ce42253 beb3aea4 3ede4d49 bea5c7a1 3d4dcad5 3e42b194 be2f9e13 3d603a58 3e076e46 3d1e051b bea5c7a1 3f57cb79 3dfe28a8 3e500747 bd9938e5 bd8d29e6 3cee24c4 bdc178d4 3d4dcad5 3dfe28a8 3ebf1c94 be0d602c bed8b50e 3d64c7ce be0738cb bd9d1010 3e42b194 3e500747 be0d602c 3f756077 3d07185f 3d70ee27 3dac950a bc846e7a be2f9e13 bd9938e5 bed8b50e 3d07185f 3f4cc34a bc4cb547 3db8b9c3 3de4fb43 3d603a58 bd8d29e6 3d64c7ce 3d70ee27 bc4cb547 3f8d2c59 ; zlo[64]
+3f7ae89d be58eaea 3ce425ad 3e076eb2 3cee281e be07385f 3dac95e0 3db8ba99 be58eaea 3f3353e1 beb3ae6e 3d1e06c9 bdc177fe bd9d0f3a bc846b20 3de4fc19 3ce425ad beb3ae6e 3ede4d7f bea5c76b 3d4dcc83 3e42b200 be2f9da7 3d603c06 3e076eb2 3d1e06c9 bea5c76b 3f57cb93 3dfe297e 3e5007b3 bd99380f bd8d2910 3cee281e bdc177fe 3d4dcc83 3dfe297e 3ebf1cca be0d5fc0 bed8b4d8 3d64c97c be07385f bd9d0f3a 3e42b200 3e5007b3 be0d5fc0 3f756091 3d071a0d 3d70efd5 3dac95e0 bc846b20 be2f9da7 bd99380f bed8b4d8 3d071a0d 3f4cc364 bc4cae91 3db8ba99 3de4fc19 3d603c06 bd8d2910 3d64c97c 3d70efd5 bc4cae91 3f8d2c67 ; zhi[64]

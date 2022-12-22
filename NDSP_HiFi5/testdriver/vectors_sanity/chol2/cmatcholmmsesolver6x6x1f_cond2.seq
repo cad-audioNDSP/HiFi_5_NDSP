@@ -1,0 +1,14 @@
+; test data for verification of cmatcholmmsesolver6x6x1f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 1 ;  M N P L
+3f2e9834 3ddc5ab0 3ecd9abd 3dd6d7aa 3e19f457 bdfb27fc bde1cf09 bd80bb90 3e137dd1 bdac5439 bcf99643 3e062e78 3ea00a15 bed2f5e5 be559f69 3d04178b bf0eb86d bd337b65 3e073093 be780657 3bebef5f 3e3227d3 bc385ed7 3e1c7340 be6a187f 3d095cb6 3eb6da6f 3eb78b14 be6afbbe be385269 3ea29799 bce15ca0 be85488e bf081332 bdebbaef 3eef364f 3e93b214 3e387e1d be8b5ec9 be2421cc 3e37fc15 3f16a2ce bd812b78 be4f6d52 bcd7aa5a befe7e55 3c0ced2c 3e663633 3d29e985 3e1e3f6c 3e4d2360 be59a024 3a714647 3df6b477 3e8b611f bd015a0f be6ee8b5 3e805ca1 bf0275ca beb6f5f4 3d0f3905 3e4cdc79 3c7d29bc 3dff9c7d bec406d5 be5d3654 bf594f46 be42ed6c bd8565cc be10f666 be33324e be308c71 ; A[72]
+3cae0797 be2cccb1 be715cd0 3d91ef29 be399a35 be1db128 3d8a2199 3a53312c 3e00dc03 3ced61fc bf2958b7 3e94e0dc ; B[12]
+3733a391 ; sigma2[1]
+3d1fa758 bd189c20 3d5a7273 bd50c983 3ec2f012 beba4b47 3ec5da22 bebd147a 3e6e0ce1 be637fc9 3cc5dfc4 bcbd2d61 ; zlo[12]
+3d1fafbc bd1893bc 3d5a7ad7 bd50c11f 3ec2f11e beba4a3b 3ec5db2e bebd136e 3e6e0ef9 be637db1 3cc5f08a bcbd1c9b ; zhi[12]

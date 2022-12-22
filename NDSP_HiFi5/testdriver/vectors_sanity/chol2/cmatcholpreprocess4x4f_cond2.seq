@@ -1,0 +1,13 @@
+; test data for verification of cmatcholpreprocess4x4f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 ;  M N L
+3f0eda54 beacc39f 3f19aadd 3de90702 3e8e84ff 3dcd1e0b 3d97283d 3d4f5658 bd5fd527 bc9dd3b8 3e834093 3e91eeb2 bf1f3a05 3d7c4e51 be9c3087 3e652665 3e7c9bb1 bca4e245 bedbc509 bda77645 3dfde8cc beb5eb1d 3e9095d2 3f41c1bc 3e789a61 ba1c04d8 beb7064c beda8a99 be192279 3e90b127 3bb37180 bee72c0b ; A[32]
+372b50fc ; sigma2[1]
+3f0c7ef5 b456bf95 3db0b97a 3dfb65f8 3e1f54eb 3df1510f 3dbd6c35 3df14e73 3db0b97a bdfb662e 3f82b48c b456bf95 bd6031fc 3e609397 3d31615c 3ce77b05 3e1f54eb bdf15145 bd6031fc be6093b1 3f38d64b b456bf95 be086224 3e15f696 3dbd6c35 bdf14ea9 3d31615c bce77bdb be086224 be15f6b0 3f80fa1f b456bf95 ; zlo[32]
+3f0c7efb 3456bf95 3db0b9b0 3dfb662e 3e1f5505 3df15145 3dbd6c6b 3df14ea9 3db0b9b0 bdfb65f8 3f82b490 3456bf95 bd603190 3e6093b1 3d3161c8 3ce77bdb 3e1f5505 bdf1510f bd603190 be609397 3f38d651 3456bf95 be08620a 3e15f6b0 3dbd6c6b bdf14e73 3d3161c8 bce77b05 be08620a be15f696 3f80fa23 3456bf95 ; zhi[32]

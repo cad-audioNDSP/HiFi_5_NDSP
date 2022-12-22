@@ -1,0 +1,15 @@
+; test data for verification of cmatcholdecomp4x4f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 4 1 ;  M N L
+372b50fc ; sigma2[1]
+3f0eda54 beacc39f 3f19aadd 3de90702 3e8e84ff 3dcd1e0b 3d97283d 3d4f5658 bd5fd527 bc9dd3b8 3e834093 3e91eeb2 bf1f3a05 3d7c4e51 be9c3087 3e652665 3e7c9bb1 bca4e245 bedbc509 bda77645 3dfde8cc beb5eb1d 3e9095d2 3f41c1bc 3e789a61 ba1c04d8 beb7064c beda8a99 be192279 3e90b127 3bb37180 bee72c0b ; A[32]
+3f3da62a b60637bd 3dee8ca9 3e29ac9a 3f7d70df b60637bd 3e5712ca 3e22deac bdda5d1f 3e73ad2f 3f43bc96 b60637bd 3dffb0af 3e22dce9 3b1f5761 3cfbb07c be8068c5 3e37269e 3f6ee7b5 b60637bd ; zlo[20]
+3f3da66e 360637bd 3dee8ec1 3e29ada6 3f7d7123 360637bd 3e5713d6 3e22dfb8 bdda5b07 3e73ae3b 3f43bcda 360637bd 3dffb2c7 3e22ddf5 3b1f9a7d 3cfbb8e0 be80683f 3e3727aa 3f6ee7f9 360637bd ; zhi[20]
+3facc7eb 3f814aa4 3fa76845 3f892877 ; wlo[4]
+3facc85d 3f814af8 3fa768b3 3f8928d1 ; whi[4]

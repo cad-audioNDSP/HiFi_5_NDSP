@@ -1,0 +1,13 @@
+; test data for verification of matcholpseudoinv6x6f_cond2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 6 1 ;  M N L
+bf42f1e5 3e8bd7a3 3e840639 beaac63e 3e021b53 bf081b53 3e7145c2 3d0ec38a beee213a befd5197 be531348 be405308 3dde0029 3ed28457 be96140d 3f32d898 3e912387 bec37af7 3e635e96 3ebe8360 3bf4d708 be9b045d 3f3b1f3e bcdd6295 bcb893af 3f1e1331 3f0e593c 3e3a2eef beab1907 3ec07a62 3eaf948c bcc3d2e6 3efb6832 be9eec55 be20853c bea354d7 ; A[36]
+3732b52e ; sigma2[1]
+bf43b939 3e7eaf2e 3e8cc937 3e89e3e5 3c16c1f8 3f4964b5 3e7cb4dc 3f3a0003 3edb9322 3ebebecc 3f72ecdb be8800b9 3dac28e2 bf644631 be6aabd5 3d9466f7 3e1e1f2c 3f55c173 be788412 bf2626cd 3f2b3408 bedaccd3 bd384b85 bcfb0210 bc464a82 bf36343d bd488725 3f6e5d05 befa64a4 be212b24 bef0136e be36a7e0 bf374738 3ea9ac99 3eebcd36 bf606d1e ; zlo[36]
+bf43b8f5 3e7eb03a 3e8cc9bd 3e89e46b 3c16d2be 3f4964f9 3e7cb5e8 3f3a0047 3edb93a8 3ebebf52 3f72ed1f be880033 3dac2afa bf6445ed be6aaac9 3d94690f 3e1e2038 3f55c1b7 be788306 bf262689 3f2b344c bedacc4d bd384753 bcfaf9ac bc4639bc bf3633f9 bd4882f3 3f6e5d49 befa641e be212a18 bef012e8 be36a6d4 bf3746f4 3ea9ad1f 3eebcdbc bf606cda ; zhi[36]
