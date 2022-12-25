@@ -1,0 +1,16 @@
+; test data for verification of dct32_32x32 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+; forward transform
+
+1 6; test case # and type (forward transform)
+32 ; N (fft size)
+3 ; scale method (fixed scaling at each stage)
+fft_ref/dct_input.pcm ; input data filename (16-bit PCM)
+fft_ref/dct_ref_32.bin ; reference data file name (double precision FP)
+150 ; minimum required SINAD, dB
+
