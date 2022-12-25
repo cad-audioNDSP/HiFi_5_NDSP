@@ -1,0 +1,13 @@
+; test data for verification of scl_reluf function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+1 ;  N
+3f53a600 ; x[1]
+412a8106 ; y[1]
+3f53a600 ; zlo[1]
+3f53a600 ; zhi[1]
