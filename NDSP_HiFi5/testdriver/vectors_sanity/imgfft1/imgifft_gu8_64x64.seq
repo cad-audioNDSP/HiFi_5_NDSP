@@ -1,0 +1,17 @@
+; test data for verification of imgifft_gu8_64x64 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+0 0 ; first twiddle table fft size =0 # amount of tables = 0 # no extenal twiddles 
+
+; inverse transform, dynamic scaling
+
+1 7; test case # and type (inverse transform, dynamic scaling)
+64 64 ; WxH (transform size)
+rifft2d_input_64x64.bin ; input data filename (double precision FP)
+rifft2d_ref_64x64.bin ; reference data file name (double precision FP)
+35 ; minimum required SINAD, dB
+
