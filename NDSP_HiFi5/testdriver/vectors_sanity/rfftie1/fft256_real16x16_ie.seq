@@ -1,0 +1,21 @@
+; test data for verification of fft256_real16x16_ie function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+256 3 ; first twiddle table fft size # amount of tables
+fft_cplx32x16_ie_twd_256.bin 
+fft_cplx32x16_ie_twd_512.bin 
+fft_cplx32x16_ie_twd_1024.bin 
+
+; forward transform, dynamic scaling
+
+1 6; test case # and type (forward transform, dynamic scaling)
+256 ; N (fft size)
+2 ; scale method (dynamic scaling)
+fft_ref/rfft_input.pcm ; input data filename (16-bit PCM)
+fft_ref/rfft_ref_256.bin ; reference data file name (double precision FP)
+52 ; minimum required SINAD, dB
+
