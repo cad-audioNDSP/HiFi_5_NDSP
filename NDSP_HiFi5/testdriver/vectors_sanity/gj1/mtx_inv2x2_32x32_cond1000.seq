@@ -1,0 +1,12 @@
+; test data for verification of mtx_inv2x2_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+2 ; N
+bf0364cb bdad7bcb bf58b84d be0d1051 ; A
+4308dcae c2a8717a c45255c2 43ff0382 ; inv(A)lo
+4308f0d2 c2a84932 c45250ba 43ff0d94 ; inv(A)hi

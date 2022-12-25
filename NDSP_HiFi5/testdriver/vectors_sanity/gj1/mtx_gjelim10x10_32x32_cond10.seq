@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim10x10_32x32_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+10 ; N
+3dd5033e be89b985 bef101fe 3e4acc76 3e2f83a6 be00dc31 3f152775 3e365fc0 3e15651e 3e8b898b 3ed08581 be33937d 3e981552 3d57b2aa be9620ad 3e875a16 3e2a0cc4 3edad8c4 bedda789 be76ab48 3e206dcf be2508e8 3eb10d00 3dd736a7 3d1fc5a5 3e1d90c3 3a13f9bc 3e12976d 3e9b86d9 bdf1d2e7 be835b00 3e96a772 3e98b161 3de98f16 be64ad57 3f3dcc3d 3db718ca 3c6b4283 3e91e645 3e5f2698 be0b83bc bdc5801f 3dd54c93 be2007f3 3e549cc3 bd8b5587 3ee9649f 3d827190 3e03f3c6 3e6ddd8f bcf87a5a bde75c1a bd89b3db 3ecdd21f 3e5067a4 3ef4c731 be58867d bebc0085 bd7ff9e4 3f105ea3 beb7f8b3 3eea58cf bd766140 3e0ebfb7 be41cf7c be1b5c84 3e84c2f6 bdd21366 be9a8261 bdac532d bf30bb22 3cb306f2 3dba7a2c bec11633 3e3f3655 3c384d20 be771fb5 3d4acbc8 beaedc0b 3cd4429e 3ddb6d09 bea3bd56 3ed3aec8 3d8a85b0 bd1546d1 bda0f704 beb1b561 bd1ca5ab be94ad67 bd9191fb be8d81ce 3e1004bc 3e7ab070 3ca14084 bd87df4a bd499bc6 3ee6c2a1 3f018e58 bea41366 3eb1f704 ; A
+bd8448b1 3e54d114 3ea08bee 3f43fd87 3f29c328 bf1d7e40 3e9968df bdfdd91a 3f267843 bf7d70a4 ; x
+bfef99f1 c071c188 3f77f44b bf801af2 c081adac 3e8b2f70 40149ccf c063fc82 3f4f4f83 bf9f8aa6 ; ylo
+bfef99af c071c166 3f77f4cf bf801ab0 c081ad9c 3e8b307a 40149cf1 c063fc60 3f4f5007 bf9f8a64 ; yhi

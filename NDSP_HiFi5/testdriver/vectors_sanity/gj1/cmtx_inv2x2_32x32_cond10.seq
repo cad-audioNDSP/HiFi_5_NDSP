@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv2x2_32x32_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+2 ; N
+3f24cf69 3e7c48be bd923f06 be1cf6f5 3f2fbf47 be3bcde3 be975e96 bca0d787 ; A
+402d3fe8 3eb1edd1 bf11e7b7 bfb98da1 40cd4a62 bfa63175 c0b8f3e3 c0283e00 ; inv(A)lo
+402d3ff4 3eb1ee29 bf11e78b bfb98d8b 40cd4a68 bfa6315f c0b8f3dd c0283df4 ; inv(A)hi

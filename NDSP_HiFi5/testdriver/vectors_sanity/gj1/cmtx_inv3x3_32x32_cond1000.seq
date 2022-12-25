@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv3x3_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+3 ; N
+3f30d6dc bd09c4ac 3dcd3300 3d3fc9a5 bef0ee32 3f00b223 bca8a2d2 3ee26a79 bc1df147 3d479312 be9fd8ed beb30a26 3ebe3cda 3e8bb7f6 3e4a0488 3c799e60 bf0c3e54 bd66f1b8 ; A
+435821d8 429e7218 c2367e27 43c0c59e c10bfd7b c290d5a4 c31399b0 42e3940e c38408ac c3312bfd 423a8117 41944450 428914f2 4341e06b c3935e3b 43489e05 42163e50 c23ad22c ; inv(A)lo
+4363ae74 42b58b50 c2084bb5 43c68bec 40333128 c27378d7 c3080d14 42faad46 c37c84bc c3259f61 4268b389 41f0a932 42a02e2a 434d6d07 c38d97ed 43542aa1 424470c2 c20c9fba ; inv(A)hi

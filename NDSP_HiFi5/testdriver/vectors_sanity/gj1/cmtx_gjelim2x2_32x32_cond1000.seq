@@ -1,0 +1,13 @@
+; test data for verification of cmtx_gjelim2x2_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+2 ; N
+3f1f057a 3e8167d1 be114069 be2d0ff8 3f332fa4 be4de8de be71a51b bd463a67 ; A
+3ef8587e bf5cefbf bf34db04 3f17b8f3 ; x
+43a7cdd5 c2e1f400 4439cedf c441fd17 ; ylo
+43a7de31 c2e1b28e 4439d70d c441f4e9 ; yhi

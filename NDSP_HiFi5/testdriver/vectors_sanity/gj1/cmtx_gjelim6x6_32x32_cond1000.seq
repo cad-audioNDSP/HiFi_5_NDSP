@@ -1,0 +1,13 @@
+; test data for verification of cmtx_gjelim6x6_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 ; N
+3f0f849a bdfe3b8f 3e429022 3eb4c96c 3e8f5655 3e8d2b23 3e39981a 3e6789d7 3deebea6 be888b15 3e9d23d8 3cb9dc5c be0cae8e bcbe3f7e 3d07fc2a be0146ac 3f061fa6 3cbaae0b 3d054a12 bdd6529f 3dc9801f be61e37b 3d943576 bd428708 3e111ea5 be0cb22c be2b4393 bd8b1e50 be262e7b 3f2c7d67 bdc32bc5 3e685cf3 be4dd900 3e4690d2 be09a7cf 3e49b482 be6eee6c beb35185 3ccc14ac be0e1414 bdabf9ca 3ebd97d2 3d2797e3 be4cf7c0 bd7692df 3ebe2f2c be79f94f bdc571a4 3c47ec63 be7a2960 be32ce77 be6c30db bdb04b90 3d64a3a1 3dd611d3 3e1810f5 bf2a02e9 3dc03433 bde920da bda24e1d bdd480c8 bd16c296 bd85644d 3e09fdf1 be194bdf bead0fff 3e0aa378 be519ba3 3d9348fb 3f0d137c 3dd4ea02 bbc465b7 ; A
+3e845556 3c8398e6 3d61c5e0 3d4237b9 bf1a7c70 3e2674af 3c87148a 3f415889 bf72489c be94bbfd be923648 3dc0c668 ; x
+c1872fe0 c2d2eefb 4301f9b0 c08e6563 4229d90c c1ee4fad c2a63e28 c2713702 c267b444 c2b5be32 4200a59e 42c67091 ; ylo
+c16b72eb c2ce9161 4304287e c0111774 42329442 c1dcd943 c2a1e08e c2687bcc c25ef90e c2b16098 420960d4 42cace2b ; yhi

@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim2x2_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+2 ; N
+bf0364cb bdad7bcb bf58b84d be0d1051 ; A
+bf7d70a4 bd5cd675 ; x
+c303071a 4449569f ; ylo
+c302f5aa 44495afb ; yhi

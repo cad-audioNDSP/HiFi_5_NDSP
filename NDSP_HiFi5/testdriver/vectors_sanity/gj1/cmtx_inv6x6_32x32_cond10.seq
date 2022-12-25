@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv6x6_32x32_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 ; N
+3f16df26 bdfabfcd 3e3d31f8 3eb16cfa 3e921076 3e83ee63 3e3077de 3e5f1df4 3dfbd62b be6fa1f6 3e87f38f 3b93a488 bde5c677 bc3bfeec bc4daf26 be21c145 3f043caf 3d290a9e 3d2706bb be259475 3dc3aa73 be671d45 3dba6146 bd6d20b0 3e13f82d be33457b be3dafa8 bd8c33ab be24d0fb 3f25a661 be03986a 3e4c662c be484887 3e3343b9 bddc7e43 3e6f68c0 be61ca63 bea173b7 3d7d2542 bdec49f4 bd77320d 3ec23539 3bf576e9 be5aa8de bd9b19d8 3ec0e50e be818e71 be0d1412 3ccfd815 be67d0a1 be49a92d be86e149 bd991508 3d457c31 3dee37d3 3e4492e6 bf1df73b 3dd54325 bdec79d5 bdf41fa0 bd80c3d9 bd1d973f bd5c67da 3dc1fccf be11cbca beaddf80 3de520f8 be54b7ce 3d9d1432 3f11bd84 3e151260 3b003a3b ; A
+400f0739 bdd120f3 3f5eeb61 3cece880 3d91e502 40082c8e be0a37f8 bfc7dc0a 3fa1cb70 be9d5554 3faa2fdc be27d2fe 3e68c6fe 3efd03c2 bff502c5 3f973668 bfc5a5bb bea4f67d 400781ee bf4ea048 bf49f3fa 401ea0e1 3ef600a7 3fdfb899 3f6c1e8b 3e9fef0a 3ec12bbc bef70d2b bf13613a be14533f 3f7a4af3 bf87cef2 3edc9ac3 3efd2c09 3e8b453b 3efc8ad6 3da577e4 bf0e3fb8 3f1fc4b5 40170460 bf8f17e7 3fa00d6b bfdc922e 3e8f25b3 3f6af757 c01ac243 bf5c5d66 3e51708a 3f5303b6 bf5b3180 3e84e829 3f3c47e0 be08a973 3f5fdcdf bfa98390 bfc2953c 3f9e159b bf8e1090 3ea54edf bfdd3990 bfbc1aaa 3f5400e1 3f511769 bb68a457 3f7fa42d c00adc14 be7f82a1 400aa707 bf804428 4003964d 3fadc03c bccb2fc3 ; inv(A)lo
+400f0749 bdd11ed7 3f5eeba5 3cecf0f2 3d91e71e 40082c9e be0a36ea bfc7dbe8 3fa1cb92 be9d54cc 3faa2ffe be27d1f0 3e68c80c 3efd044a bff502a3 3f97368a bfc5a599 bea4f5f5 400781fe bf4ea004 bf49f3b6 401ea0f1 3ef6012f 3fdfb8bb 3f6c1ecf 3e9fef92 3ec12c44 bef70ca3 bf1360f6 be145231 3f7a4b37 bf87ced0 3edc9b4b 3efd2c91 3e8b45c3 3efc8b5e 3da57a00 bf0e3f74 3f1fc4f9 40170470 bf8f17c5 3fa00d8d bfdc920c 3e8f263b 3f6af79b c01ac233 bf5c5d22 3e517198 3f5303fa bf5b313c 3e84e8b1 3f3c4824 be08a865 3f5fdd23 bfa9836e bfc2951a 3f9e15bd bf8e106e 3ea54f67 bfdd396e bfbc1a88 3f540125 3f5117ad bb6860c7 3f7fa471 c00adc04 be7f8193 400aa717 bf804406 4003965d 3fadc05e bccb2751 ; inv(A)hi
