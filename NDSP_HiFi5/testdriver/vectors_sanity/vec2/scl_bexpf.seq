@@ -1,0 +1,12 @@
+; test data for verification of scl_bexpf function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+1 1 ; N,L
+4464cd9e ; x[1][1]
+-10 ; zlo (lower bound)
+-10 ; zhi (upper bound)

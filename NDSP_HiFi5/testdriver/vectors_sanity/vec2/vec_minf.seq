@@ -1,0 +1,12 @@
+; test data for verification of vec_minf function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+82 1 ; N,L
+c32e8694 4352fcaf 41d5d13e c439afac c2a7e34e 3f26d17c 4384c22d 439dfa88 c39f4289 43edc52b 4310b061 3d9d0cf5 44641c73 c3a0d269 3f7e055f 446d93be 42a069df 440771c6 422ed702 c4246652 440714f4 43c9f947 42b64ee8 419805d9 41d8ee92 c1aaed39 417688a4 c3f47af2 41678858 c468eecb c28a6122 c46ddc79 c4029210 4463831a 42ae1eaf c23eb36d 43d8293b c3955fef bf57f961 c2a73399 42699022 425dbea1 c31f63f0 bdeaca31 bf4964cf 41759bc0 42aae671 427a5576 c2219d7b 420efa26 424f3f2f c45cc567 c3f40784 3f6c7de8 4348151d c293ee83 bf7da095 c20cfc14 42231db1 c1fe2462 3f0cc110 410854cc 44488e85 43e161ea 3f227591 c4106319 c4775271 c1cf76c5 439ec2d6 c25d95e5 43e7c2ae c2b76743 433acf1f c29aa99e c42e25bc c119460c 41c6037b 3f3cc58d c2a9d443 435ac6a6 bf54c4d3 be4d3ec1 ; x[82][1]
+c4775271 ; zlo (lower bound)
+c4775271 ; zhi (upper bound)
