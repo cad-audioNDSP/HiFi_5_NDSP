@@ -1,0 +1,13 @@
+; test data for verification of fft_spectrumf function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+32 ; N
+1 ; mode
+c22207c1 c3ac2131 439e8cbc 446d8e36 80000002 80000002 c4711274 c316dee6 80000007 80000005 00000008 00000006 4209c8c9 43db5f47 43bec77c 443f6113 c2840375 c3a0a1e6 4446cccb 433adf63 43f4e1d8 43decb09 80000009 80000005 44219408 44315759 c3724287 c3806f0b 8000000a 80000008 443cabf3 438a0336 4429ecf9 4423c646 ; x[17]
+41ad512f 427a6f11 00000000 4274013d 00000000 00000000 41dc0c16 4255d59d 41a3fcde 424c3730 42258851 00000000 426fe949 41b08b31 00000000 4248e527 426c0070 ; z[17] (lower bound)
+41ad5133 427a6f15 00000002 42740141 00000003 00000003 41dc0c1a 4255d5a1 41a3fce2 424c3734 42258855 00000003 426fe94d 41b08b35 00000003 4248e52b 426c0074 ; z[17] (upper bound)
