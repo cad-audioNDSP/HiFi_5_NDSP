@@ -1,0 +1,12 @@
+; test data for verification of mtx_inv6x6f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 ; N
+bf2e2023 3e555d40 bf078809 3ea7855c 3ed8ad79 3e07ccb7 bcaf2784 bde66675 be92e5fb 3e469698 be5bd3a6 3eeb8516 3e7cea85 394d1b5b 3ee4d7f3 bea8c6d7 3ebdbd0d bf01af1b 3e4cbac2 be663e5e beeef639 bcd2866c bea8239a 3dd3c1d7 be8b7600 3e1dac5f beee858b 3e2f62f1 3f5bb833 becc2ecf bf135ac6 3e5bb393 3f24baa8 bdcbc55c 3e992943 3d631c5f ; A
+40f4aa0f 405bfaad 4107be06 c0903a8f c0c820b3 c0bbb87f 41e495d9 4094a7b4 41ca1dc7 c1348bf9 c1b381cc c1832f34 c108a19a bfc20451 c0f4c3fa 3f9943ba 40c1acfd 408d5072 c1afd964 c0ae78fa c1b30ff2 404a9767 4187f1ab 411a1517 403b8ab9 4061d99a 40970e42 bfaa0f76 bfbd8d07 bfaa36e7 414a6dfc 40cf0983 415711c2 c085a9f4 c11dbd0d c0c6b2c1 ; inv(A)lo
+40f4b121 405c08d1 4107c190 c090337d c0c819a1 c0bbb16d 41e4979d 4094aec6 41ca1f8b c134886f c1b38008 c1832d70 c1089e10 bfc1e809 c0f4bce8 3f996002 40c1b40f 408d5784 c1afd7a0 c0ae71e8 c1b30e2e 404aa58b 4187f36f 411a18a1 403b98dd 4061e7be 40971554 bfa9f32e bfbd70bf bfaa1a9f 414a7186 40cf1095 4157154c c085a2e2 c11db983 c0c6abaf ; inv(A)hi

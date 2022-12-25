@@ -1,0 +1,13 @@
+; test data for verification of cmtx_gjelim4x4f_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 ; N
+3f238485 be404483 bd9a97d7 3e43be36 3ecf214f 3f037640 bd9b9535 3e05ea78 bf0ea3ed 3e4cf022 3d23dc7e bef33ff1 3dc3183b bc8ef44a 3e702359 3f72324a 3dedf247 beaa7f1d 3d9014e0 3e1a8c46 3eaeaf9d 3d43a5f5 bd4f25d2 3e0b8139 bd8cd91d be74f4f4 be03610e 3e90f6b4 3eee852a beb2f96b 3f17e9dd 3cdb4c8a ; A
+3e86bb21 be508719 3f3b033c 3d04c0a5 bf2559b6 be6000c2 3f30f453 3f356f95 ; x
+436611ba 4393999f c03a5681 c248129f c3ddcb9e 42c21e45 4323cdb1 c362dc60 ; ylo
+43677cd2 43944f2b bfbf214e c2426641 c3dd1612 42c4f473 432538c9 c3617148 ; yhi

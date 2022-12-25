@@ -1,0 +1,13 @@
+; test data for verification of cmtx_gjelim3x3f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+3 ; N
+3f326383 bd0c051e 3dc59875 3d490a19 beef7f86 3f000d78 bcb5ff13 3edf4e6c bc78118e 3d4b699d bea2fbd1 beb4bd6d 3ebe3ffd 3e8acde5 3e52a1ab 3c4d8563 bf0c8298 bd715255 ; A
+3ebd4bdb be95156f 3f3da9ba be2b1d82 3f4da92d 3f141b31 ; x
+4188bb57 41a9cec4 c19e98ff 410062ff c0aa39eb 41c71254 ; ylo
+4188c467 41a9d7d4 c19e8fef 41007521 c0aa15a7 41c71b64 ; yhi

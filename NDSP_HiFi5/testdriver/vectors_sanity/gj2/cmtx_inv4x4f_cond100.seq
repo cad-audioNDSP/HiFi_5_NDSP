@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv4x4f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 ; N
+3f248dd9 be3ea9a0 bd8f5437 3e437321 3ecea8bf 3f02f281 bd97bc31 3e07dea8 bf0e806f 3e4cea8c 3d31598a bef2b793 3dc04521 bc7e7e69 3e71f9e3 3f723aa9 3de1dd1e bea89e27 3d93b725 3e1b803e 3eb1a4c7 3d58f4a5 bd4fe32a 3e071be8 bd8d97f7 be745e87 be051600 3e9456ff 3eed4555 beb37bdb 3f17b983 3cf41cc9 ; A
+4165f093 bd716d00 c037166d 40dbb3bc c206a1fa c17c9a9b 40fca340 4060f16d 3f8eca7c bf8ec0bd 4004a7da bf860ab9 403f7bc7 402a3712 bfe0945b c08ee3c2 c0f35a0a 4154f121 c0e9e0f3 c0ebbe16 4206f1ae c1e75a69 c11c0cd8 40f482df bfc225c0 c12171e6 40ccafcd bf3ae824 c0819e22 41d1f495 3f515bd8 c1091aca ; inv(A)lo
+416e13bf 3ee637e0 c01689bd 40ebfa14 c204992e c174776f 410674cc 4080bf0e 3fcfe3dc bf1b4eba 4025348a bf09e2b2 40600877 404ac3c2 bf9f7afb c07d3ad4 c0e313b2 415d144d c0d99a9b c0db77be 4208fa78 c1e348d3 c113e9ac 4102649c bf810c60 c1194eba 40dcf625 be62d590 c062af93 41d6062b 3fa9c74c c100f79e ; inv(A)hi

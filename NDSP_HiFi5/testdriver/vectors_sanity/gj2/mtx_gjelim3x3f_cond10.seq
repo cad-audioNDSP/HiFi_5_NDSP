@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim3x3f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+3 ; N
+3f2e1c69 be8d4f6a 3f10315d 3f2675ae 3ce9f6c0 3f0f4607 be9d9625 bd98e207 bf0c8f8b ; A
+beb4f124 3ec186c2 bf7d70a4 ; x
+bfc6e718 4011b7ed 4017552f ; ylo
+bfc6e6c0 4011b819 4017555b ; yhi

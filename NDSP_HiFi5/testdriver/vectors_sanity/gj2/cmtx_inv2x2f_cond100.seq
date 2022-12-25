@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv2x2f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+2 ; N
+3f1f8e11 3e811d4a be0ab285 be2b9b15 3f32e196 be4c459a be77366c bd3b8577 ; A
+41af2c85 40b1988a c1382c5c c1816097 428290b2 c16651b3 c25f56af c1d58cb2 ; inv(A)lo
+41af71df 40b2adf6 c137a1a6 c1811b3d 4282a208 c165c6fd c25f3401 c1d54758 ; inv(A)hi

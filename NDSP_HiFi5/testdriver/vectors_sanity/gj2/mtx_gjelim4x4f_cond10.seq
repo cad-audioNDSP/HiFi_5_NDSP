@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim4x4f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 ; N
+3f00876a be6195df 3f19aee1 3ece3b42 bf14fed3 3e5e8ea9 beecbf76 3f7d70a4 3e6e16e6 3e24ab7d 3e37d600 beff2d41 3e09f617 bee22d69 3f1e57ad 3f0ab133 ; A
+3f7d70a4 3ea2a380 bf441005 3f59084b ; x
+40026226 c0070f2a bfd2656c 3f9b6783 ; ylo
+40026256 c0070efa bfd2650a 3f9b67e5 ; yhi

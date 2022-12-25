@@ -1,0 +1,13 @@
+; test data for verification of cmtx_gjelim8x8f_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 ; N
+3f3722eb be508ff6 3e4d7783 3e9f0030 3d72a95d be7064c8 be9865dc bd972610 bd9df7cc 3d285105 3e37dbfd bdc2b903 be47e215 3ea31201 3f200681 be13e895 3e80c280 3dd14671 3e556f90 3e0dd0f4 bdf03eeb 3db8c239 be19a905 3e72e013 bdcca7dc bdd4ba06 3f00d58a be2d1341 3e743664 3d6e3b76 bf216af1 bebb711a 3de20fab 3da62a67 3e236489 bcc0774e 3dcc7008 3eb750c6 3e8d8d34 3d442c64 3ebac8a1 3eae7258 3e9bb273 3cef2d92 3df478c5 3e64197d bda65c81 be78800d bd993587 3dd8235e be23c696 be9f7608 3e105bdb 3eb1a2ea bd4b860c bdd9981a beba9e57 3e28bf84 3e1984ad 3eaaddf1 3da53daa ba0861ac 3e4418f1 beda3ce6 be76a47d 3ea6741e 3e53a7e0 be6dada0 be7ede70 3e27f7dd 3eb39a09 3b0a54b8 3e83b8ed be8b09b8 be244361 3f11da29 bddd5c2a 3d4f1a7b 3d89f6b2 3e1e92f0 be233aad 3e89b76c 3e44a660 be360953 3c9e5f5f 3f19dc2e 3e1f33b7 bdbcf3ed bc53fc1a 3e74010a bd886fbd 3ef440d2 3dbd75a2 3e11aeed 3e407c93 3dbeaa1d bd8aa6d7 bd61e80d bedcc155 3def211a 3e7374e6 befcea9a bf0f59cf 3cca0058 beeb0a99 be6a5942 bdfc080d 3d05a8a9 be69ae72 be8e508b 3e2d547a 3e423df7 be301651 be0d2a5d be2bf47b 3e115f2e bdd53015 3e9c7b25 be44c75b 3d61836e be5dc85c 3e9086f1 beaf7296 be1a7960 be4d1615 be43b0a1 3cbf4ad6 3e0ba860 ; A
+3f25bcc0 beeaec0c 3ee6aaf2 3f61ad36 3efd11fe be6095b1 bda5bf58 3db151bd 3e26c33a bf36bffa 3e8241ea becff1d1 3f0442bc 3f280b2b be3e9b9f 3f4ee6cf ; x
+432c941f c258797d c35f4ead 41c5ccde c1f89bad c21d40ab bf5994ab c328edec 4229ab36 4227af06 c328b7ff c1bda4b3 432feaff c2d302d7 408f6770 c0d4ae69 ; ylo
+432d3999 c255e393 c35ea933 41caf8b4 c1f36fd7 c21aaac1 be506814 c3284872 422c4120 422a44f0 c3281285 c1b878dd 43309079 c2d1b7e1 40a416c4 c0bfff15 ; yhi

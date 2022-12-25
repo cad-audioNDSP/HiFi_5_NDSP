@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim6x6f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 ; N
+bf2e2023 3e555d40 bf078809 3ea7855c 3ed8ad79 3e07ccb7 bcaf2784 bde66675 be92e5fb 3e469698 be5bd3a6 3eeb8516 3e7cea85 394d1b5b 3ee4d7f3 bea8c6d7 3ebdbd0d bf01af1b 3e4cbac2 be663e5e beeef639 bcd2866c bea8239a 3dd3c1d7 be8b7600 3e1dac5f beee858b 3e2f62f1 3f5bb833 becc2ecf bf135ac6 3e5bb393 3f24baa8 bdcbc55c 3e992943 3d631c5f ; A
+bf2913ec 3e244e37 be544b6d bb9c3d6e 3f7d70a4 bdfb69bb ; x
+c13b5ea3 c22e0efc 4146c383 42079ed5 c06978fb c198b0a3 ; ylo
+c13b3f37 c22e0722 4146e2ef 4207a6af c068fb4f c198a0ed ; yhi

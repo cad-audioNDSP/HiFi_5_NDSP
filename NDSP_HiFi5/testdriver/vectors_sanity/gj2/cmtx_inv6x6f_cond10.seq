@@ -1,0 +1,12 @@
+; test data for verification of cmtx_inv6x6f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+6 ; N
+3f16df26 bdfabfcd 3e3d31f8 3eb16cfa 3e921076 3e83ee63 3e3077de 3e5f1df4 3dfbd62b be6fa1f6 3e87f38f 3b93a488 bde5c677 bc3bfeec bc4daf26 be21c145 3f043caf 3d290a9e 3d2706bb be259475 3dc3aa73 be671d45 3dba6146 bd6d20b0 3e13f82d be33457b be3dafa8 bd8c33ab be24d0fb 3f25a661 be03986a 3e4c662c be484887 3e3343b9 bddc7e43 3e6f68c0 be61ca63 bea173b7 3d7d2542 bdec49f4 bd77320d 3ec23539 3bf576e9 be5aa8de bd9b19d8 3ec0e50e be818e71 be0d1412 3ccfd815 be67d0a1 be49a92d be86e149 bd991508 3d457c31 3dee37d3 3e4492e6 bf1df73b 3dd54325 bdec79d5 bdf41fa0 bd80c3d9 bd1d973f bd5c67da 3dc1fccf be11cbca beaddf80 3de520f8 be54b7ce 3d9d1432 3f11bd84 3e151260 3b003a3b ; A
+400f02c2 bdd1afbc 3f5ed97c 3ceaaa66 3d915620 40082811 be0a7f3b bfc7e4f1 3fa1c275 be9d78fc 3faa26eb be281a5d 3e687f2e 3efcdfff bff50ba0 3f972d7b bfc5ae9f bea51a2e 40077d6e bf4eb206 bf4a05e6 401e9c5e 3ef5dccf 3fdfafa5 3f6c0ca8 3e9fcb45 3ec10805 bef730e5 bf137312 be149aaa 3f7a3908 bf87d7de 3edc76f0 3efd0831 3e8b2171 3efc671d 3da4e8fc bf0e517e 3f1fb2d2 4016ffdf bf8f20da 3fa00469 bfdc9b06 3e8f020d 3f6ae571 c01ac6b2 bf5c6f3a 3e5128fa 3f52f1d6 bf5b4353 3e84c457 3f3c35ec be08f0ee 3f5fcae6 bfa98c70 bfc29e24 3f9e0ca0 bf8e1973 3ea52b23 bfdd427b bfbc2398 3f53eef8 3f510590 bb7a7b74 3f7f9246 c00ae088 be7fca70 400aa289 bf804d0e 400391cf 3fadb749 bccd6d9e ; inv(A)lo
+400f0bc4 bdd08f94 3f5efd80 3cef2b02 3d927648 40083113 be09ef27 bfc7d2ef 3fa1d477 be9d30f2 3faa38ed be278a49 3e690f42 3efd2809 bff4f99e 3f973f7d bfc59c9d bea4d224 40078670 bf4e8e02 bf49e1e2 401ea560 3ef624d9 3fdfc1a7 3f6c30ac 3ea0134f 3ec1500f bef6e8db bf134f0e be140a96 3f7a5d0c bf87c5dc 3edcbefa 3efd503b 3e8b697b 3efcaf27 3da60924 bf0e2d7a 3f1fd6d6 401708e1 bf8f0ed8 3fa0166b bfdc8904 3e8f4a17 3f6b0975 c01abdb0 bf5c4b36 3e51b90e 3f5315da bf5b1f4f 3e850c61 3f3c59f0 be0860da 3f5feeea bfa97a6e bfc28c22 3f9e1ea2 bf8e0771 3ea5732d bfdd3079 bfbc1196 3f5412fc 3f512994 bb56768c 3f7fb64a c00ad786 be7f3a5c 400aab8b bf803b0c 40039ad1 3fadc94b bcc8ed02 ; inv(A)hi

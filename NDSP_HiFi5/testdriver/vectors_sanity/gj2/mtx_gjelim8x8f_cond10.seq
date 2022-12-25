@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim8x8f_cond10 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 ; N
+bcd1b55f 3ecdf9ee 3de0c04e 3e433f08 3edd3444 beed0f21 3f759f4b 3f473a7a 3eef2659 3e85b546 bcd4ffa1 3e37d768 bf163011 bdfaf938 bf1a7df0 3e9a9296 3eceac68 bedb31d4 be1184d2 3dc8cc3d 3e6837ab bd06b7b4 be9a01cd 3e87dc95 be23732f 3e484c87 3ee1c1fa 3eb12374 3dbcc1e6 bd301f43 beb3635e bc1dcac1 bef1539e 3f05ac7d 3dca15b5 3e8c92af bd77a31b 3e7a5bf2 3e253acd 3d0310b3 3dd6c91d bd9b8549 beba534f be0a8d0d 3f25cc05 3e8b8ce7 bf2a82e6 3e4330dc bef219ab beaf2fd6 bf0ef6bb bf539c4c bec80fca be4656d1 3ed3033e bf1986ff 3a86802a bed4bfb4 bdc94c70 bee69152 bea9b2b9 bdd1a1f5 3e9f37a5 3e7342d9 ; A
+3f2d1c69 be265b82 bebcdf3b bcbe33aa 3f7d70a4 3f3f8621 3f13e241 3f089744 ; x
+c00a6b84 3e8211c8 bf3ceedd bf1acc28 be2197dc 3eb26453 beee86de 3fe4d9f3 ; ylo
+c00a6b5c 3e821300 bf3cee41 bf1acb8c be21956c 3eb2658b beee85a6 3fe4da41 ; yhi

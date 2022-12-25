@@ -1,0 +1,13 @@
+; test data for verification of mtx_gjelim8x8f_cond100 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+8 ; N
+bcd6585b 3ecc1ffd 3e09d2b5 3e53a0a0 3edc50ac bedda09f 3f7d70a4 3f48831c 3ef076bb 3e68a328 3c0076a9 3e48616c bf0e5c02 bdb6a3d0 bf19c12f 3e9291fc 3ee1c547 beb92c1f bdba55c7 3c7011c7 3e75bdb2 bc0be89f bea0e383 3e83515a bdb672fb 3e692570 3ecb91fe 3eba5f9b 3db38fab 3cfe4c49 bea00004 bc90644d bed569f2 3f0985c8 3e1bdf97 3e738885 bcf1008a 3e487602 3e2b2618 bb4666d8 3e079da1 bddd1f2a beb346cd bdad72af 3f20c37a 3e8a00fe bf288e1c 3e277035 bee7f9de bebb4362 bf08b5c4 bf5d4e46 bed00fa8 be0f20f3 3ee6c119 bf1d7311 3ce57793 bec734a2 be1a8cef bed69da2 be9f1473 be14ca67 3ea84eba 3e29a177 ; A
+3f2d1c69 be265b82 bebcdf3b bcbe33aa 3f7d70a4 3f3f8621 3f13e241 3f089744 ; x
+c0bdd7c6 c0206f32 c072ec4b 406aabbe bfa0f7b1 bf9fdc2e bfa38a42 404f5cd1 ; ylo
+c0bdd070 c0206086 c072dd9f 406aba6a bfa0da5b bf9fbed8 bfa36cec 404f6b7d ; yhi

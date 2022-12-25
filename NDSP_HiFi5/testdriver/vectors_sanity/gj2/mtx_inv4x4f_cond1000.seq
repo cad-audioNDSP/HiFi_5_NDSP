@@ -1,0 +1,12 @@
+; test data for verification of mtx_inv4x4f_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 ; N
+3eded1c1 be852a23 3f22504b 3ec21a42 bf16cae0 3e2f32a3 befbf71d 3f7ef8bc 3e89c2a1 3d8a7e6b 3de68c47 bf015a09 3e523925 bed828c6 3f142f9b 3f1097a1 ; A
+4307a38a c2e41e2d c3a33c69 c33625ea c2d66cca 42bf84a4 4387d006 4311ebcf c316392e 4300ec61 43b8c64e 434be956 41c33999 c199a4b6 c264982c c2002bfa ; inv(A)lo
+4307c6ea c2e3d76b c3a32ab9 c336028a c2d62608 42bfcb66 4387e1b6 43120f2f c31615ce 43010fc1 43b8d7fe 434c0cb6 41c4549f c19889b0 c2640aaa c1ff3cef ; inv(A)hi
