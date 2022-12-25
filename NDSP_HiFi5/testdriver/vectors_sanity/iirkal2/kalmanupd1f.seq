@@ -1,0 +1,14 @@
+; test data for verification of kalmanupd1f function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+32 ;  N
+433efb96 c353a600 c287892f 434e0f2f 42e2d15d c1c006d6 c36a3e56 c36e05df 432f4d57 c370f189 c36a11c9 40ef9afa c319be5d 43375aac 42203b9f c354db49 c3159c33 c36b4297 c29f7a7d 436db733 c332c114 c35e345d c2b70659 c303f684 c2f8f7b8 425cb815 c29f3599 43285a38 c2d2fdbf 436fb39b 42e46e4d 43685c39 ; H[32]
+37328fa1 381cdff0 b9d70df1 3708f8c7 3c36b47d 397ca155 ba9d43c7 3514b4f5 b8979223 bbdfbb3d b9b74fd1 b8fb5330 38d63520 3923cc0c 388b2ecc bb49c11d b84e5cbb b84edb27 bb562a9b 3c0545c1 399f8768 b6450c66 ba92e90b b98c67cd bb0d9aa9 b91c211c ba3b0ad5 3930ebe4 b7e19bf5 b8805c4d 38172510 390ce050 ; U[32]
+40f4c0c2 ; R[1]
+35484e76 362ffaad b7f13e91 3519a705 3a4cf483 378db2ac b8b06aba 3326d10d b6aa0792 b9fafa61 b7cda2d2 b70cf74c 36f04b46 3737be98 369c21f8 b9625317 b6677e5d b6680c2e b9703f8c 3a1580aa 37b2f4e4 b45d0ba9 b8a4cd2e b79d8124 b91ed95e b72f24a9 b851d224 3746779b b5fd15a4 b68ffe1f 36298d29 371e0847 ; zlo[32]
+35484e85 362ffabb b7f13e7e 3519a711 3a4cf493 378db2b8 b8b06aac 3326d11a b6aa0785 b9fafa4d b7cda2c2 b70cf741 36f04b59 3737bea7 369c2204 b9625305 b6677e4b b6680c1c b9703f79 3a1580b6 37b2f4f2 b45d0b98 b8a4cd21 b79d8117 b91ed952 b72f249b b851d213 374677ab b5fd1590 b68ffe14 36298d37 371e0854 ; zhi[32]
