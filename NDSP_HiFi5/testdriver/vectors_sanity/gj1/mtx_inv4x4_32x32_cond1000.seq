@@ -1,0 +1,12 @@
+; test data for verification of mtx_inv4x4_32x32_cond1000 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+; accuracy
+1 0; test case # and type (accuracy)
+4 ; N
+3eded1c1 be852a23 3f22504b 3ec21a42 bf16cae0 3e2f32a3 befbf71d 3f7ef8bc 3e89c2a1 3d8a7e6b 3de68c47 bf015a09 3e523925 bed828c6 3f142f9b 3f1097a1 ; A
+43067d4d c2e66653 c3a3cd86 c337496b c2d8b50f 42bd38de 43873c55 4310c574 c3175cf5 42ff8c5c 43b8322b 434ac27e 41ba0f5c c1a2cbeb c2692a7a c204bf2e ; inv(A)lo
+4308ead5 c2e18b43 c3a296c2 c334dbe3 c2d3d9ff 42c213ee 43887319 431332fc c314ef6d 430233b6 43b968ef 434d3006 41cd7b9a c18f5fad c25f745c c1f6121e ; inv(A)hi
