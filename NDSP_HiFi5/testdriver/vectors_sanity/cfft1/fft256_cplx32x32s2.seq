@@ -1,0 +1,18 @@
+; test data for verification of fft256_cplx32x32s2 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+0 0 ; first twiddle table fft size =0 # amount of tables = 0 # no extenal twiddles for fft_cplx32x32/ifft_cplx32x32
+
+; forward transform, dynamic scaling
+
+1 6; test case # and type (forward transform, dynamic scaling)
+256 ; N (fft size)
+2 ; scale method (static scaling)
+fft_ref/cfft_input.pcm ; input data filename (16-bit PCM)
+fft_ref/cfft_ref_256.bin ; reference data file name (double precision FP)
+132 ; minimum required SINAD, dB
+
