@@ -1,0 +1,18 @@
+; test data for verification of ifft4096_real16x16s3 function
+
+; these data are generated automatically, do not change them manually
+; ---------------------------------------------------------------
+; Copyright IntegrIT 2014-2020
+; ---------------------------------------------------------------
+
+0 0 ; first twiddle table fft size =0 # amount of tables = 0 # no extenal twiddles 
+
+; inverse transform, static scaling
+
+1 7; test case # and type (inverse transform, static scaling)
+4096 ; N (fft size)
+3 ; scale method (static scaling)
+fft_ref/rfft_input.pcm ; input data filename (16-bit PCM)
+fft_ref/rifft_ref_4096.bin ; reference data file name (double precision FP)
+23 ; minimum required SINAD, dB
+
