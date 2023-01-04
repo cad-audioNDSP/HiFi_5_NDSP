@@ -7,7 +7,7 @@
   * **library** - contains the optimized kernel functions for the HiFi core 
   * **testdriver** - contains the demo driver code to tun the library   
 
-### It is assumed that the required HiFi core configurations and the Xtensa toolchain are set up in the Linux environment.
+### It is assumed that the required HiFi core configurations and the Xtensa toolchain are installed in the Linux environment.
  An example .cshrc file  that sets up the build environment accordingly is provided for reference 
 
 ## Setting up the environment 
