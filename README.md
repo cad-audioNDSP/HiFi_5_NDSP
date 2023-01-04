@@ -17,3 +17,9 @@ Detailed release documentation can be extracted from lib.xws/doc folder.
 Release Date : 15-Jan-2021.  
 This release is targeted for xt-clang compiler, and has added support for imaging kernels.
 All testing and performance measurements have been done on xt-clang using RI2020.5 version of the Xtensa Xplorer and tools.
+
+# NDSP_HiFi5
+This contains the source code along with make files that will build in linux environment.  
+
+# doc folder
+This contains help documentation on how to build the source code in linux and run the performance and functional regressions. 
