@@ -11,8 +11,9 @@
  An example .cshrc file  that sets up the build environment accordingly is provided for reference 
 
 ## Setting up the environment 
-  * A typical way is to place this .cshrc file in your home directory. 
+  * A typical way is to place this .cshrc file in your home directory and execute the following from the command line terminal... 
   * source ~/.cshrc 
+  * ri9
   * setenv XTENSA_CORE CORE_NAME     
     Ex: setenv XTENSA_CORE AE_HiFi5e_LE5_AO_FP  
 
